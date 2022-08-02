@@ -26,8 +26,15 @@ for box in boxes:
         a = side.find("a")
         if not a:
             continue
-        pdf = requests.get(a.get("href"), headers=headers, timeout=20)
-        name = a.get("href").split("/")[-1]
+        link = a.get("href", "")
+        if link == "":
+            continue
+        pdf = requests.get(link, headers=headers, timeout=20)
+        if pdf.status_code != 200:
+            continue
+        name = link.split("/")[-1]
+        if "." not in name:
+            name = "paper_" + str(int(time.time())) + ".pdf"
         out = open(os.path.join("downloads", name), "wb")
         out.write(pdf.content)
         out.close()
