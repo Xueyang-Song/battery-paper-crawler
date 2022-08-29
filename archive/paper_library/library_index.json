@@ -1,6 +1,6 @@
 {
-  "month_count": 2,
-  "unique_paper_count": 20,
+  "month_count": 3,
+  "unique_paper_count": 23,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -2281,6 +2281,23 @@
       ]
     },
     {
+      "sha256": "8c47ca248fc22545f579460592352f4c6748c1ae5a6be3f52126537913046a6c",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2022-08/8c47ca248fc22545_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2022-08",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2022-08",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
       "sha256": "acfc50927719457db8038fa678629bf7326d37feb7710ca5cb7c4eb62e586219",
       "title": "Battery detection of XRay images using transfer learning",
       "library_path": "archive/paper_library/2022-06/acfc50927719457d_battery_detection_of_xray_images_using_transfer_learning.pdf",
@@ -3075,6 +3092,161 @@
       ]
     },
     {
+      "sha256": "dcbf7b00f8d824e620e31877cc9db6332a7f4d644d7667ab8d6188d66d8317c0",
+      "title": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via Machine Intelligence",
+      "library_path": "archive/paper_library/2022-08/dcbf7b00f8d824e6_predictive_design_of_ultrastretchable_electrodes_with_strain_insensitive.pdf",
+      "first_month": "2022-08",
+      "first_query": "zinc_ion_battery_machine_learning",
+      "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf",
+      "size_bytes": 32417308,
+      "seen_in": [
+        {
+          "month": "2022-08",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2022-09",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2022-11",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2023-03",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2023-04",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2023-05",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2023-07",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2023-09",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-01",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-05",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-06",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "zinc_ion_battery_machine_learning",
+          "query": "zinc ion battery machine learning",
+          "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "dda5cc30f0682a7dcb19e20a61093f8e9cdcc5e21fba9d61caa689597cb91427",
       "title": "SoC estimation of Lithium-ion battery: Simulation and Comparative study of machine learning-based modelling methods",
       "library_path": "archive/paper_library/2022-06/dda5cc30f0682a7d_soc_estimation_of_lithium_ion_battery_simulation_and_comparative_study_o.pdf",
@@ -3567,6 +3739,95 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "AI-Driven Screening of Electrolyte Additives for Aqueous Zinc-Ion Batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "f693e1809dffe4a510d056047c0d6c83d6a79fa387c2510ffc13329f6d3792c2",
+      "title": "Cycle aging effect on lithium-ion battery resistance: a machine learning approach",
+      "library_path": "archive/paper_library/2022-08/f693e1809dffe4a5_cycle_aging_effect_on_lithium_ion_battery_resistance_a_machine_learning_.pdf",
+      "first_month": "2022-08",
+      "first_query": "battery_machine_learning",
+      "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf",
+      "size_bytes": 662577,
+      "seen_in": [
+        {
+          "month": "2022-08",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2022-11",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
         }
       ]
     }
