@@ -3,3 +3,4 @@ rough notes while messing with scholar
 2022-06 archive - saved 16 papers across 2 query folders and linked them into the paper library
 2022-07 archive - saved 4 papers across 2 query folders and linked them into the paper library
 2022-08 archive - saved 16 papers across 2 query folders and linked them into the paper library
+2022-Q2 report - wrote the quarter summary pdf and kept the latex source with it
