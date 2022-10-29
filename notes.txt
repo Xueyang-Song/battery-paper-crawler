@@ -8,3 +8,4 @@ rough notes while messing with scholar
 2022-09 archive - saved 16 papers across 2 query folders and linked them into the paper library
 2022-Q3 report - wrote the quarter summary pdf and kept the latex source with it
 2022-10 - saved another page because the boxes keep looking different
+2022-10 late - query words work better if they are short
