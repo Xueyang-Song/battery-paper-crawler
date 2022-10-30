@@ -1,7 +1,7 @@
 {
-  "month_count": 4,
-  "query_count": 8,
-  "saved_pdf_count": 52,
+  "month_count": 5,
+  "query_count": 10,
+  "saved_pdf_count": 68,
   "months": [
     {
       "month": "2022-06",
@@ -32,6 +32,15 @@
     },
     {
       "month": "2022-09",
+      "query_count": 2,
+      "saved_pdf_count": 16,
+      "queries": [
+        "battery_machine_learning",
+        "zinc_ion_battery_machine_learning"
+      ]
+    },
+    {
+      "month": "2022-10",
       "query_count": 2,
       "saved_pdf_count": 16,
       "queries": [
