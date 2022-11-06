@@ -53,7 +53,8 @@ else:
         print("scholar did not work")
         sys.exit()
     html = response.text
-
+    with open("last_debug.html", "w", encoding="utf-8") as debug_out:
+        debug_out.write(html)
 
 soup = BeautifulSoup(html, "html.parser")
 wraps = soup.find_all("div", {"class": "gs_r gs_or gs_scl"})
