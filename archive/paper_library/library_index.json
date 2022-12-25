@@ -1,6 +1,6 @@
 {
-  "month_count": 6,
-  "unique_paper_count": 27,
+  "month_count": 7,
+  "unique_paper_count": 28,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -4046,6 +4046,23 @@
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
           "source_name": "Cycle aging effect on lithium-ion battery resistance_ a machine learning approach.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "fbda48cb262615ea29b38dcc2db056c7cc5bbf88ea04e4e7f7a14a02dd2273c0",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2022-12/fbda48cb262615ea_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2022-12",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2022-12",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     }
