@@ -1,6 +1,6 @@
 {
-  "month_count": 7,
-  "unique_paper_count": 28,
+  "month_count": 8,
+  "unique_paper_count": 29,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -2443,6 +2443,23 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "Interpretable learning of voltage for electrode design of multivalent metal-ion batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "76e6f63c3601c66fd1cd7dad40d3bd22b84076a585eaa2dd11887bfae31a955c",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2023-01/76e6f63c3601c66f_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2023-01",
+      "first_query": "machine_learning_for_batteries",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2023-01",
+          "query_slug": "machine_learning_for_batteries",
+          "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
