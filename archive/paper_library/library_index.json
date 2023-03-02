@@ -1,6 +1,6 @@
 {
-  "month_count": 8,
-  "unique_paper_count": 29,
+  "month_count": 9,
+  "unique_paper_count": 30,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -1425,6 +1425,23 @@
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
           "source_name": "Participation of battery storage systems in the automatic frequency restoration reserve ma.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "2a961ed5337035b4b5f932df9606e7f15b8df25c1c0b3b504d99c8377746bd07",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2023-02/2a961ed5337035b4_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2023-02",
+      "first_query": "machine_learning_for_batteries",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2023-02",
+          "query_slug": "machine_learning_for_batteries",
+          "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
