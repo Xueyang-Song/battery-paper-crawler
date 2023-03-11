@@ -1,0 +1,30 @@
+{
+  "month": "2023-03",
+  "query": "machine learning for batteries",
+  "query_slug": "machine_learning_for_batteries",
+  "collected_at": "2023-03-10T22:26:00-08:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=machine+learning+for+batteries+filetype%3Apdf&btnG="
+  },
+  "saved_count": 1,
+  "results_seen_count": 10,
+  "status_breakdown": {
+    "status_403": 7,
+    "exception": 2,
+    "saved": 1
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "2db3f86601c65ef4b0e4e75b6275c476d6fc5d4f5f2c0b49cc90dd1ed276ded7",
+      "library_path": "archive/paper_library/2023-03/2db3f86601c65ef4_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "size_bytes": 1601933
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
