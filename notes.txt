@@ -22,3 +22,4 @@ rough notes while messing with scholar
 2023-02 archive - saved 10 papers across 2 query folders and linked them into the paper library
 2023-03 - query words work better if they are short
 2023-03 archive - saved 9 papers across 2 query folders and linked them into the paper library
+2023-Q1 report - wrote the quarter summary pdf and kept the latex source with it

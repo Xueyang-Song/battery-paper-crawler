@@ -1,0 +1,146 @@
+\documentclass[conference]{IEEEtran}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{url}
+\usepackage{xcolor}
+
+\begin{document}
+
+\title{ Quarterly Review of Machine Learning and Battery Papers Retrieved from Google Scholar (2023-Q1) }
+
+\author{
+\IEEEauthorblockN{ Melody Song }
+\IEEEauthorblockA{Independent archival review synthesis\\
+Battery and machine learning literature monitoring\\
+Prepared from monthly Scholar replay archives}
+}
+
+\maketitle
+
+\begin{abstract}
+This quarterly review summarizes 34 unique papers retrieved across 3 crawl months and 106 retrieval instances in 2023-Q1. The archive yielded 12 downloadable PDFs, of which 11 were parsed as full text. The quarter was anchored by Transport, Grid, and Applied Storage and by recurring methods in Unspecified or Broad ML. The report treats the quarter as a literature snapshot rather than a claim of novelty, and it highlights both durable research themes and archive-specific retrieval biases.
+\end{abstract}
+
+\begin{IEEEkeywords}
+battery management systems, machine learning, literature review, Scholar archive, Zn-ion batteries
+\end{IEEEkeywords}
+
+\section{Introduction}
+The 2023-Q1 snapshot sits within a monthly Scholar replay that tracks battery-focused machine learning queries over time. This quarter contained 34 deduplicated papers and 1 papers that first appeared in the archive during the same quarter. Recurring keywords included batteries, zinc, researchgate, materials, lithium-ion, net. Representative papers include \cite{machinelearningdriven2025,recentadvancesin2025,aphysicsinspired2023,datadrivenapproaches2024}. In publication-year terms, the quarter mixed manuscripts from 2024 (7), 2023 (6), n/a (6), 2025 (5).
+
+\section{Corpus and Collection Notes}
+The crawl months contributing to this report were 2023-01, 2023-02, 2023-03. Because the monthly replay can surface the same result more than once, the report distinguishes between 106 retrieval instances and 34 quarter-level unique papers. Downloadable PDFs were available for 12 quarter papers, while full-text extraction succeeded for 11 of them. Venue strings were noisy but still indicated recurring sources such as researchgate.net (5), 2024 (4), Eur. J. Chem, 2023 (1), AI for Energy and Environment, 2025 (1). This matters because the quarter should be read as a replayed visibility sample rather than as an unbiased census of the whole field.
+
+\begin{table}[t]
+\caption{Quarter-level archive coverage for 2023-Q1.}
+\label{tab:quarter_stats}
+\centering
+\footnotesize
+\begin{tabular}{lr}
+\toprule
+Metric & Value \\
+\midrule
+Unique papers & 34 \\
+Retrieval instances & 106 \\
+Quarter-first papers & 1 \\
+Carried-over papers & 33 \\
+Downloadable PDFs & 12 (35.3\%) \\
+Full-text extractions & 11 (32.4\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\caption{Most frequent venue strings in the quarter.}
+\label{tab:venues}
+\centering
+\footnotesize
+\begin{tabularx}{\linewidth}{Xr}
+\toprule
+Venue string & Count \\
+\midrule
+researchgate.net & 5 \\
+2024 & 4 \\
+Eur. J. Chem, 2023 & 1 \\
+AI for Energy and Environment, 2025 & 1 \\
+International Journal of Scientific ..., 2024 & 1 \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\section{Thematic Clusters}
+Transport, Grid, and Applied Storage accounted for 20 papers in the quarter, with representative examples \cite{machinelearningdriven2025,recentadvancesin2025}. Charging, Control, and BMS accounted for 15 papers in the quarter, with representative examples \cite{machinelearningdriven2025,recentadvancesin2025}. State Estimation and Health Monitoring accounted for 11 papers in the quarter, with representative examples \cite{recentadvancesin2025,datadrivenapproaches2024}. The cluster balance suggests that operational battery monitoring remained the archive baseline, while the secondary clusters reveal how broad the quarter's technical perimeter had become.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/cluster_counts.png}
+\caption{Top thematic clusters in the 2023-Q1 retrieval snapshot.}
+\label{fig:clusters}
+\end{figure}
+
+\section{Methods and Data Trends}
+The dominant model families in this quarter were Unspecified or Broad ML (21), Neural and Deep Models (10), Kernel and Linear Models (6). From an application standpoint, the strongest domains were vehicle and grid (21), battery management (12), thermal and safety (11). This pattern suggests that the quarter leaned more toward applied battery analytics than toward purely theoretical work. The combination of venue noise and model-family recurrence also indicates that the Scholar replay favored discoverable PDF hosts over formally normalized publication pipelines.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/model_counts.png}
+\caption{Dominant model families in the 2023-Q1 quarter.}
+\label{fig:models}
+\end{figure}
+
+\section{Notable Papers}
+The notable-paper list emphasizes quarter-defining papers with downloadable artifacts, stronger metadata, or unusually clear connections to the dominant quarter themes. These papers should be read as anchors for the quarter rather than as an exhaustive ranking of impact. Together they provide a compact reading list for the quarter's main technical directions.
+
+\paragraph{Machine learning-driven material intelligence research and development} This paper sits primarily in charging, control, and bms and is associated with neural and deep models, tree and boosting models. It was selected because it offered stronger archive evidence for the quarter. ... [164] achieves cross screening of lithium/zinc/aluminum ion batteries positive electrode materials (MAE 47.34 Whkg1) through the autoencoder Coulomb matrix and CNN model. Its ... \cite{machinelearningdriven2025}
+
+\paragraph{Recent advances in MXene materials for zinc-ion hybrid capacitors} This paper sits primarily in state estimation and health monitoring and is associated with unspecified or broad ml. It was selected because it offered stronger archive evidence for the quarter. ... Common ZHCs are a compromise between zinc ion batteries and supercapacitors, where the battery-type anode stores a large amount of energy through redox reactions and the ... \cite{recentadvancesin2025}
+
+\paragraph{A Physics-Inspired Machine Learning Nonlinear Model of Li-ion Batte...} This paper sits primarily in general battery ml and is associated with kernel and linear models, physics-guided models. It was selected because it offered stronger archive evidence for the quarter. ... Another common modeling technique is to fit battery response to ... Here, we present a machine learning approach that ... the Li-ion batteries in the bank of the machine learning library. This ... \cite{aphysicsinspired2023}
+
+\paragraph{Data-driven approaches to battery health monitoring in electric veh...} This paper sits primarily in state estimation and health monitoring and is associated with neural and deep models, tree and boosting models. It was selected because it offered stronger archive evidence for the quarter. ... apply innovative machinelearning techniques to battery health estimation ... machine learning to battery health monitoring, will guide the vehicle driver to action in ways implicit for battery ... \cite{datadrivenapproaches2024}
+
+\paragraph{Estimation of battery life cycle \textbackslash{}\& remaining using machine learning} This paper sits primarily in state estimation and health monitoring and is associated with neural and deep models, tree and boosting models. It was selected because it offered stronger archive evidence for the quarter. ... lithium-ion batteries. This research paper introduces an innovative machine learningbased ... capacity for lithium-ion batteries. By leveraging comprehensive datasets from a custom-built ... \cite{estimationofbattery2024}
+
+\paragraph{Predictive Design of Ultrastretchable Electrodes with Strain-Insens...} This paper sits primarily in charging, control, and bms and is associated with neural and deep models. It was selected because it offered stronger archive evidence for the quarter. ... gold conductors, a Zn//MnO2 battery was fabricated and showcased ... Our machine intelligence workflow realized a predictive ... and stretchable zinc ion batteries. ACS Appl. Energy Mater. ... \cite{predictivedesignof2024}
+
+\paragraph{Electrolytes for aqueous Zn-ion batteries working in harsh environm...} This paper sits primarily in state estimation and health monitoring and is associated with unspecified or broad ml. It was selected because it offered stronger archive evidence for the quarter. ... plating/stripping performance of Zn||Zn batteries with BBAS ... electrolyte facilitates the ultra-stable Zn||Zn cell at 1 mA cm2 over ... polyol in the solvation structure of zinc ions reduces water ... \cite{electrolytesforaqueous2025}
+
+\paragraph{A pyrazine-based covalent organic framework as a cathode material f...} This paper sits primarily in state estimation and health monitoring and is associated with unspecified or broad ml. It was selected because it offered stronger archive evidence for the quarter. ... [2932] Conjugated carbonyl compounds store zinc ions via a reversible enolate reaction, and their flexible molecular structures can accommodate volume changes. Three-dimensional ... \cite{apyrazinebased2026}
+
+\begin{table}[t]
+\caption{Representative papers highlighted in this quarter.}
+\label{tab:notable}
+\centering
+\footnotesize
+\begin{tabularx}{\linewidth}{p{0.47\linewidth} p{0.12\linewidth} X}
+\toprule
+Paper & Year & Rationale \\
+\midrule
+\textit{Machine learning-driven material intelligence research...} \cite{machinelearningdriven2025} & 2025 & Charging, Control, and BMS, Neural and Deep Models \\
+\textit{Recent advances in MXene materials for zinc-ion hybrid...} \cite{recentadvancesin2025} & 2025 & State Estimation and Health Monitoring, Unspecified or Broad ML \\
+\textit{A Physics-Inspired Machine Learning Nonlinear Model of...} \cite{aphysicsinspired2023} & 2023 & General Battery ML, Kernel and Linear Models \\
+\textit{Data-driven approaches to battery health monitoring in...} \cite{datadrivenapproaches2024} & 2024 & State Estimation and Health Monitoring, Neural and Deep Models \\
+\textit{Estimation of battery life cycle \& remaining using mac...} \cite{estimationofbattery2024} & 2024 & State Estimation and Health Monitoring, Neural and Deep Models \\
+\textit{Predictive Design of Ultrastretchable Electrodes with S...} \cite{predictivedesignof2024} & 2024 & Charging, Control, and BMS, Neural and Deep Models \\
+\textit{Electrolytes for aqueous Zn-ion batteries working in ha...} \cite{electrolytesforaqueous2025} & 2025 & State Estimation and Health Monitoring, Unspecified or Broad ML \\
+\textit{A pyrazine-based covalent organic framework as a cathod...} \cite{apyrazinebased2026} & 2026 & State Estimation and Health Monitoring, Unspecified or Broad ML \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\section{Discussion}
+Two tensions recur in this quarter. First, the archive favors papers that expose reachable PDFs, which can shift the visible balance toward dissertations, repository-hosted manuscripts, or open proceedings. Second, even under that bias, the mixture of Transport, Grid, and Applied Storage and Unspecified or Broad ML shows that the battery ML literature was not narrowly defined. The quarter captured both operational battery management tasks and more exploratory modeling work. The carried-over portion of the quarter also shows which papers remained repeatedly visible, a useful proxy for persistent discoverability in Scholar-like search workflows.
+
+\section{Conclusion}
+In summary, 2023-Q1 reflects a literature snapshot with 34 unique papers, 1 quarter-first additions, and visible concentration in Transport, Grid, and Applied Storage. The quarter provides enough technical variety to support both near-term engineering review and longitudinal trend analysis. It also demonstrates that even a narrow monthly crawl can produce a usable quarter-scale review corpus when provenance and deduplication are handled carefully.
+
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}
