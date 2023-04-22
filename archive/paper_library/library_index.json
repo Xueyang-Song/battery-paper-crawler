@@ -1,6 +1,6 @@
 {
-  "month_count": 10,
-  "unique_paper_count": 31,
+  "month_count": 11,
+  "unique_paper_count": 32,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -4008,6 +4008,23 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "AI-Driven Screening of Electrolyte Additives for Aqueous Zinc-Ion Batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "ded74bee18ac6137065f307dce1a3677c7f1aecab79fec6797826d4352d75d43",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2023-04/ded74bee18ac6137_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2023-04",
+      "first_query": "machine_learning_for_batteries",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2023-04",
+          "query_slug": "machine_learning_for_batteries",
+          "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
