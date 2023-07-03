@@ -1,24 +1,21 @@
 # znion_ml_paper_crawler
 
-Finding papers from google scholar about Zinc ion battery / battery / machine learning.
-
-Run once a month and get me updated.
+Small hobby crawler for google scholar battery + ml topics.
 
 Main:
 
 ```bash
 python crawler.py "zinc ion battery machine learning" --limit 2
-```
-
-If you already saved a scholar page:
-
-```bash
 python crawler.py "zinc ion battery machine learning" --limit 2 --htmlfile fixtures\znion_query_page.html
 ```
 
-It saves pdfs into `downloads/<query>/`.
+Monthly:
 
-Problems:
-- still likes direct pdf links best
-- scholar blocks sometimes
-- titles make ugly file names
+```bat
+run_monthly.bat
+```
+
+Notes:
+- older saved pages and newer result boxes do not look exactly the same
+- still doing mostly best effort pdf download
+- helper file exists now but it is not very clean
