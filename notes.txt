@@ -34,3 +34,4 @@ rough notes while messing with scholar
 2023-07 - starting to see newer result boxes and i am just adding more if statements
 2023-07 late - moved some code out but it is still kind of messy
 2023-07 archive - saved 9 papers across 2 query folders and linked them into the paper library
+2023-08 - trying to keep old pages working because scholar keeps moving stuff around
