@@ -1,6 +1,6 @@
 {
-  "month_count": 15,
-  "unique_paper_count": 36,
+  "month_count": 16,
+  "unique_paper_count": 37,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -2579,6 +2579,23 @@
           "month": "2022-08",
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "9c720c44296d1cc3bc6c539e12c3b84f3c70ca3c76cb40df002f2ecd3f36dcee",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2023-09/9c720c44296d1cc3_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2023-09",
+      "first_query": "machine_learning_for_batteries",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2023-09",
+          "query_slug": "machine_learning_for_batteries",
+          "query": "machine learning for batteries",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
