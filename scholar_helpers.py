@@ -38,6 +38,11 @@ def collect_boxes(soup):
         boxes.append(("direct_ri", box))
     if boxes:
         return boxes
+    for box in soup.find_all("div", attrs={"data-rp": True}):
+        if box.find("h3"):
+            boxes.append(("data_rp", box))
+    if boxes:
+        return boxes
     return boxes
 
 
