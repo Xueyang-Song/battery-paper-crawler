@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "scholar_url": "",
+    "source_html": "E:\\git-thing\\crawler_monthly_archive\\monthly_runs\\2023-11\\zinc_ion_battery_machine_learning\\search_page.html",
+    "used_source": "archive_backed"
+  },
+  "results": [
+    {
+      "title": "Interpretable learning of voltage for electrode design of multivalent metal-ion batteries",
+      "main_link": "https://arxiv.org/abs/2201.04493",
+      "pdf_link": "https://arxiv.org/pdf/2201.04493.pdf",
+      "meta_text": "A O'Donnell, Y Wen, G Hautier - 2022",
+      "snippet": "This paper includes zinc as one of the multivalent battery systems."
+    },
+    {
+      "title": "A review of flexible zinc ion batteries",
+      "main_link": "https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2022.827563/full",
+      "pdf_link": "https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2022.827563/pdf",
+      "meta_text": "X Zhao, P Liu - 2022",
+      "snippet": "Mostly zinc-ion battery background paper, not much ML."
+    }
+  ]
+}

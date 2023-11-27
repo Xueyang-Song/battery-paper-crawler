@@ -43,3 +43,4 @@ rough notes while messing with scholar
 2023-10 archive - saved 10 papers across 2 query folders and linked them into the paper library
 2023-11 - japanese and english page text should not matter as much
 2023-11 late - starting to see newer result boxes and i am just adding more if statements
+2023-11 archive - saved 4 papers across 2 query folders and linked them into the paper library

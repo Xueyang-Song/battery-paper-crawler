@@ -1,0 +1,35 @@
+{
+  "month": "2023-11",
+  "query": "zinc ion battery machine learning",
+  "query_slug": "zinc_ion_battery_machine_learning",
+  "collected_at": "2023-11-26T23:48:00-08:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "E:\\git-thing\\crawler_monthly_archive\\monthly_runs\\2023-11\\zinc_ion_battery_machine_learning\\search_page.html"
+  },
+  "saved_count": 2,
+  "results_seen_count": 2,
+  "status_breakdown": {
+    "saved": 2
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "d0c907b46acc6fe9f98d81a5d97d16926fe1ac7b8a6af4d7bfb0eded0e58cd84",
+      "library_path": "archive/paper_library/2022-07/d0c907b46acc6fe9_a_review_of_flexible_zinc_ion_batteries.pdf",
+      "source_name": "A review of flexible zinc ion batteries.pdf",
+      "title": "A review of flexible zinc ion batteries",
+      "size_bytes": 5327784
+    },
+    {
+      "sha256": "7104373dd416f83086a4ea411478630c316701fae7d925ad391800c4af3643c2",
+      "library_path": "archive/paper_library/2022-07/7104373dd416f830_interpretable_learning_of_voltage_for_electrode_design_of_multivalent_me.pdf",
+      "source_name": "Interpretable learning of voltage for electrode design of multivalent metal-ion batteries.pdf",
+      "title": "Interpretable learning of voltage for electrode design of multivalent metal-ion batteries",
+      "size_bytes": 1632797
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
