@@ -1,6 +1,6 @@
 {
-  "month_count": 18,
-  "unique_paper_count": 39,
+  "month_count": 19,
+  "unique_paper_count": 40,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -1459,6 +1459,23 @@
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
           "source_name": "Machine learning for flow batteries_ opportunities and challenges.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "2cc3813c2e79f70a85c3ce2df2a0d6187c2908f4a6c0a13870e45d6571d75a31",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2023-12/2cc3813c2e79f70a_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2023-12",
+      "first_query": "machine_learning_for_batteries",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2023-12",
+          "query_slug": "machine_learning_for_batteries",
+          "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
