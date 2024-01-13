@@ -1,6 +1,6 @@
 {
-  "month_count": 19,
-  "unique_paper_count": 40,
+  "month_count": 20,
+  "unique_paper_count": 49,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -280,6 +280,513 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "Deep Learning of Advanced Metal-Ion Batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "0674d0f22d73ed5294f2845665321e6f160d23bb74e7ac97a921fe4e9df4fd41",
+      "title": "Drug Discovery Approach to Breakthroughs in Batteries",
+      "library_path": "archive/paper_library/2024-01/0674d0f22d73ed52_drug_discovery_approach_to_breakthroughs_in_batteries.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf",
+      "size_bytes": 1476065,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "08256d1b340187a865caa8c4bc3f041109715d5c63ba77df861d064e24f18e0f",
+      "title": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Development",
+      "library_path": "archive/paper_library/2024-01/08256d1b340187a8_leveraging_machine_learning_to_navigate_complex_design_spaces_in_battery.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf",
+      "size_bytes": 218409,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "09cb4ba5268939e6264b3c9abd96259a367e17f36e18fe4cd81e344d9aad7bb4",
+      "title": "Transformation of lithium battery material design and optimization based on artificial intelligence",
+      "library_path": "archive/paper_library/2024-01/09cb4ba5268939e6_transformation_of_lithium_battery_material_design_and_optimization_based.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf",
+      "size_bytes": 192265,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf"
         }
       ]
     },
@@ -2010,6 +2517,179 @@
       ]
     },
     {
+      "sha256": "4bd028130adc52c62864f6dd6023ee8b5a8426b18b860fd6bd858f53ae28515f",
+      "title": "Accelerating functional materials discovery Insights from geological sciences, data-driven approaches, and computational advances",
+      "library_path": "archive/paper_library/2024-01/4bd028130adc52c6_accelerating_functional_materials_discovery_insights_from_geological_sci.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf",
+      "size_bytes": 3658187,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "545f1c6a5dbcd556e57c52a25de96c79493d8727062f51ebdca00e8a79a5573d",
       "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
       "library_path": "archive/paper_library/2022-10/545f1c6a5dbcd556_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
@@ -2039,6 +2719,23 @@
           "month": "2023-06",
           "query_slug": "machine_learning_for_batteries",
           "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "60879bcf689c1b50db4c333aa56113304439b59a5e0cc19056294fffc6f992ae",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-01/60879bcf689c1b50_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
@@ -2372,6 +3069,23 @@
       ]
     },
     {
+      "sha256": "69ada85c28747b1c716b0f470819fecfac3d05b53e959f8b1a8440a90f30f485",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-01/69ada85c28747b1c_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "6c42f1a8c25cba34fb0a9c6a46707b608e367c17f7a9c7fc727aecfee27eb649",
       "title": "A pyrazine-based covalent organic framework as a cathode material for aqueous rechargeable zinc-ion batteries",
       "library_path": "archive/paper_library/2022-06/6c42f1a8c25cba34_a_pyrazine_based_covalent_organic_framework_as_a_cathode_material_for_aq.pdf",
@@ -2597,6 +3311,143 @@
           "query_slug": "machine_learning_for_batteries",
           "query": "machine learning for batteries",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "8963a18c6c9c8d6427bd340886278d6b640858da5370361b35cbc1923b557290",
+      "title": "Text Mining for Energy Materials",
+      "library_path": "archive/paper_library/2024-01/8963a18c6c9c8d64_text_mining_for_energy_materials.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Text Mining for Energy Materials.pdf",
+      "size_bytes": 557086,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-06",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-07",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Text Mining for Energy Materials.pdf"
         }
       ]
     },
@@ -3436,6 +4287,154 @@
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
           "source_name": "Early Prediction of Battery Cycle Life Using Machine Learning.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "c1ef5d8f13ff5be3a4d33687f1297f4e8d0429ad678470a187c2edb9cd2e8751",
+      "title": "Section 02-Assessing raw materials criticality",
+      "library_path": "archive/paper_library/2024-01/c1ef5d8f13ff5be3_section_02_assessing_raw_materials_criticality.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Section 02-Assessing raw materials criticality.pdf",
+      "size_bytes": 2794,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Section 02-Assessing raw materials criticality.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "c6c7dd6a99332678ec604c1c01747183735c096eb2ed3e3dadb26998f6400adf",
+      "title": "Framework for Early Prediction of Lithium-Ion Battery Lifetime: A Hybrid Quantum-Classical Approach",
+      "library_path": "archive/paper_library/2024-01/c6c7dd6a99332678_framework_for_early_prediction_of_lithium_ion_battery_lifetime_a_hybrid_.pdf",
+      "first_month": "2024-01",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf",
+      "size_bytes": 644185,
+      "seen_in": [
+        {
+          "month": "2024-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-05",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-11",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2025-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2026-01",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2026-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        },
+        {
+          "month": "2026-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
         }
       ]
     },
