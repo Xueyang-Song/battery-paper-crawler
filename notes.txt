@@ -49,3 +49,4 @@ rough notes while messing with scholar
 2023-Q4 report - wrote the quarter summary pdf and kept the latex source with it
 2024-01 - trying to keep old pages working because scholar keeps moving stuff around
 2024-01 archive - saved 24 papers across 3 query folders and linked them into the paper library
+2024-02 - need to save more info from each run so i know what failed
