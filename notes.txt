@@ -56,3 +56,4 @@ rough notes while messing with scholar
 2024-03 archive - saved 23 papers across 3 query folders and linked them into the paper library
 2024-Q1 report - wrote the quarter summary pdf and kept the latex source with it
 2024-04 - starting to see newer result boxes and i am just adding more if statements
+2024-04 archive - saved 24 papers across 3 query folders and linked them into the paper library

@@ -1,6 +1,6 @@
 {
-  "month_count": 22,
-  "unique_paper_count": 54,
+  "month_count": 23,
+  "unique_paper_count": 56,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -453,6 +453,23 @@
           "query_slug": "battery_materials_informatics",
           "query": "battery materials informatics",
           "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "06ac56ba31337d528462e3d183ab028a4a79831c81b81bb4b190cb763ab5cdf3",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-04/06ac56ba31337d52_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-04",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-04",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
@@ -4492,6 +4509,23 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "A review of flexible zinc ion batteries.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "d6f3ba703336ec489806bcd318d23623ed326f2a767ca6416a3c577a14184534",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-04/d6f3ba703336ec48_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-04",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-04",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
         }
       ]
     },
