@@ -28,11 +28,12 @@ def build_args():
     parser.add_argument("query", nargs="+")
     parser.add_argument("--limit", type=int, default=3)
     parser.add_argument("--htmlfile")
+    parser.add_argument("--out-root", default="downloads")
     return parser.parse_args()
 
 
 def pick_folder(query, args):
-    out_root = "downloads"
+    out_root = args.out_root
     os.makedirs(out_root, exist_ok=True)
     folder = os.path.join(out_root, slug_text(query))
     os.makedirs(folder, exist_ok=True)
