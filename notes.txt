@@ -64,3 +64,4 @@ rough notes while messing with scholar
 2024-Q2 report - wrote the quarter summary pdf and kept the latex source with it
 2024-07 - need to save more info from each run so i know what failed
 2024-07 late - file names are still ugly when the title has weird characters
+2024-07 archive - saved 23 papers across 3 query folders and linked them into the paper library
