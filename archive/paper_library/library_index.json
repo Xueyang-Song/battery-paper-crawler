@@ -1,6 +1,6 @@
 {
-  "month_count": 26,
-  "unique_paper_count": 63,
+  "month_count": 27,
+  "unique_paper_count": 65,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -2602,6 +2602,23 @@
       ]
     },
     {
+      "sha256": "4a1586c6ee2c56b86d540cbf6094b5d9e202de3665ffaae7e9a1c7f2c719c0a1",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-08/4a1586c6ee2c56b8_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-08",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-08",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "4bd028130adc52c62864f6dd6023ee8b5a8426b18b860fd6bd858f53ae28515f",
       "title": "Accelerating functional materials discovery Insights from geological sciences, data-driven approaches, and computational advances",
       "library_path": "archive/paper_library/2024-01/4bd028130adc52c6_accelerating_functional_materials_discovery_insights_from_geological_sci.pdf",
@@ -3396,6 +3413,23 @@
           "query_slug": "battery_state_of_health_machine_learning",
           "query": "battery state of health machine learning",
           "source_name": "Machine learning assisted optimization for battery manufacturing.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "82121f18cfae910ca858fffde5f2e08dfd765acd5a2205ac11ae6c65b4ff2212",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-08/82121f18cfae910c_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-08",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-08",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
