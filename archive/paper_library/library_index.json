@@ -1,6 +1,6 @@
 {
-  "month_count": 27,
-  "unique_paper_count": 65,
+  "month_count": 28,
+  "unique_paper_count": 68,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -1803,6 +1803,23 @@
       ]
     },
     {
+      "sha256": "26839713494c0625779863f6ca466e2604be7c8701246f3c06d979db4bf6f3d9",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-09/26839713494c0625_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-09",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "2798dbca566d79de787ab42e9bc7f1179d6bd00370bdf83664f5105d3685eacc",
       "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
       "library_path": "archive/paper_library/2022-11/2798dbca566d79de_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
@@ -2788,6 +2805,40 @@
           "query_slug": "battery_materials_informatics",
           "query": "battery materials informatics",
           "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "4c132c93ef301566d33b35d68da5c737ed15a156034b246babb297395aa77516",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-09/4c132c93ef301566_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-09",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-09",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "4fd2dd141a025815501d73669d4013eb96bd5c41deb19c033d6b32f2b93081f5",
+      "title": "Section 02-Assessing raw materials criticality",
+      "library_path": "archive/paper_library/2024-09/4fd2dd141a025815_section_02_assessing_raw_materials_criticality.pdf",
+      "first_month": "2024-09",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Section 02-Assessing raw materials criticality.pdf",
+      "size_bytes": 2795,
+      "seen_in": [
+        {
+          "month": "2024-09",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Section 02-Assessing raw materials criticality.pdf"
         }
       ]
     },
