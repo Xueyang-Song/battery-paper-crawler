@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Battery health monitoring using machine learning",
+    "main_link": "https://www.researchgate.net/profile/Shehzar-Sheikh/publication/343084201_Battery_Health_Monitoring_Using_Machine_Learning/links/5f160255299bf1e548c6e8f8/Battery-Health-Monitoring-Using-Machine-Learning.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Shehzar-Sheikh/publication/343084201_Battery_Health_Monitoring_Using_Machine_Learning/links/5f160255299bf1e548c6e8f8/Battery-Health-Monitoring-Using-Machine-Learning.pdf",
+    "meta_text": "SS Sheikh - Doctoral dissertation, 2019 - researchgate.net",
+    "snippet": "… of a battery, features like state of charge (SOC) and state of health (SOH) become highly \nnecessary. In this thesis, a machine learning-… of SOH using a simplified machine learning (ML) …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+    "main_link": "https://vbn.aau.dk/ws/portalfiles/portal/453979110/Multidimensional_Machine_Learning_Balancing_in_Smart_Battery_Packs.pdf",
+    "pdf_link": "https://vbn.aau.dk/ws/portalfiles/portal/453979110/Multidimensional_Machine_Learning_Balancing_in_Smart_Battery_Packs.pdf",
+    "meta_text": "R Di Fonso, X Sui, AB Acharya, R Teodorescu… - IECON, 2021 - vbn.aau.dk",
+    "snippet": "… This paper proposes a redundant smart battery topology based on … To synthesize the nominal \nvoltage, a battery pack with a … A Machine Learningbased control algorithm was developed …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2024-10/cd5447469e6d2ac2_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+    "saved_sha256": "cd5447469e6d2ac21d096ef01f21b7a3b857a213c53307a89e971fcb7130b2df"
+  },
+  {
+    "title": "Optimizing EV Ecosystems: AI and Machine Learning in Battery Charging",
+    "main_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/388080635_Optimizing_EV_Ecosystems_AI_and_Machine_Learning_in_Battery_Charging/links/67cf10d0d759700065076fc6/Optimizing-EV-Ecosystems-AI-and-Machine-Learning-in-Battery-Charging.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/388080635_Optimizing_EV_Ecosystems_AI_and_Machine_Learning_in_Battery_Charging/links/67cf10d0d759700065076fc6/Optimizing-EV-Ecosystems-AI-and-Machine-Learning-in-Battery-Charging.pdf",
+    "meta_text": "HP Bhupathi, S Chinta - … Journal of Advancements in Science & …, 2023 - researchgate.net",
+    "snippet": "… This paper explores the integration of artificial intelligence (AI) and machine learning (ML) … \nthe efficiency, reliability, and sustainability of battery charging processes. This study reviews …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Data-driven approaches to battery health monitoring in electric vehicles using machine learning",
+    "main_link": "https://pdfs.semanticscholar.org/b81d/fbd9aebef3eb62e256edb61e34d3aae61f56.pdf",
+    "pdf_link": "https://pdfs.semanticscholar.org/b81d/fbd9aebef3eb62e256edb61e34d3aae61f56.pdf",
+    "meta_text": "VB Komaragiri - International Journal of Scientific …, 2024 - pdfs.semanticscholar.org",
+    "snippet": "… apply innovative machinelearning techniques to battery health estimation … machine learning \nto battery health monitoring, will guide the vehicle driver to action in ways implicit for battery …",
+    "save_status": "exception",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  {
+    "title": "IoT-based Battery Management System by Deploying an Machine Learning Model",
+    "main_link": "https://www.researchgate.net/profile/Kaushalya-Thopate/publication/365659282_IoT-based_Battery_Management_System_by_Deploying_an_Machine_Learning_Model/links/6643223d08aa54017a080715/IoT-based-Battery-Management-System-by-Deploying-an-Machine-Learning-Model.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Kaushalya-Thopate/publication/365659282_IoT-based_Battery_Management_System_by_Deploying_an_Machine_Learning_Model/links/6643223d08aa54017a080715/IoT-based-Battery-Management-System-by-Deploying-an-Machine-Learning-Model.pdf",
+    "meta_text": "A Prabha, S Saravanan, S Balaji, M KV… - 2022 3rd International …, 2022 - researchgate.net",
+    "snippet": "… This study states that the frequent charging and discharging of the batteries result in the \ndeterioration of the batteries. To reduce this issue, the batteries have to be charged only when …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "AI-powered efficiency machine learning techniques for EV battery charging",
+    "main_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/388080640_AI-Powered_Efficiency_Machine_Learning_Techniques_for_EV_Battery_Charging/links/67bcd8f0645ef274a493fd5f/AI-Powered-Efficiency-Machine-Learning-Techniques-for-EV-Battery-Charging.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/388080640_AI-Powered_Efficiency_Machine_Learning_Techniques_for_EV_Battery_Charging/links/67bcd8f0645ef274a493fd5f/AI-Powered-Efficiency-Machine-Learning-Techniques-for-EV-Battery-Charging.pdf",
+    "meta_text": "HP Bhupathi, S Chinta - … Journal of Advancements in Science & …, 2024 - researchgate.net",
+    "snippet": "… However, the efficiency of EV battery … battery degradation. This paper explores the application \nof artificial intelligence (AI) and machine learning (ML) techniques to optimize EV battery …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Early Prediction of Battery Cycle Life Using Machine Learning",
+    "main_link": "https://dspace.library.uvic.ca/bitstream/1828/12592/1/Liu_Wenmeng_MEng_2021.pdf",
+    "pdf_link": "https://dspace.library.uvic.ca/bitstream/1828/12592/1/Liu_Wenmeng_MEng_2021.pdf",
+    "meta_text": "W Liu - 2021 - dspace.library.uvic.ca",
+    "snippet": "… In this study, supervised Machine Learning (ML) techniques are used to develop data-… (LFP) \nbatteries. This model is built using battery data from the first 300 cycles, at which point most …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/b7029469cac9cc1b_early_prediction_of_battery_cycle_life_using_machine_learning.pdf",
+    "saved_sha256": "b7029469cac9cc1b0964c068cad47117691aabc8bc60f7929b8b0c319b3c4fa9"
+  },
+  {
+    "title": "Modeling Thermal Management of Battery Energy Storage System with Machine Learning",
+    "main_link": "https://www.academia.edu/download/98679834/BTMS_draft_v2.pdf",
+    "pdf_link": "https://www.academia.edu/download/98679834/BTMS_draft_v2.pdf",
+    "meta_text": "A Mosavi - 2022 - academia.edu",
+    "snippet": "… tain a suitable battery temperature … machine learning modeling the battery lifetime. However, \nthe specific influence on techniques used to approximate the thermal behavior the battery …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "A Physics-Inspired Machine Learning Nonlinear Model of Li-ion Batteries.",
+    "main_link": "https://www.researchgate.net/profile/Omidreza-Ahmadzadeh/publication/372086957_A_Physics-Inspired_Machine_Learning_Nonlinear_Model_of_Li-ion_Batteries/links/64ff408368ca5847e3cfe8ee/A-Physics-Inspired-Machine-Learning-Nonlinear-Model-of-Li-ion-Batteries.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Omidreza-Ahmadzadeh/publication/372086957_A_Physics-Inspired_Machine_Learning_Nonlinear_Model_of_Li-ion_Batteries/links/64ff408368ca5847e3cfe8ee/A-Physics-Inspired-Machine-Learning-Nonlinear-Model-of-Li-ion-Batteries.pdf",
+    "meta_text": "O Ahmadzadeh, R Rodriguez, Y Wang, D Soudbakhsh - ACC, 2023 - researchgate.net",
+    "snippet": "… Another common modeling technique is to fit battery response to … Here, we present a machine \nlearning approach that … the Li-ion batteries in the bank of the machine learning library. This …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Interpretable machine learning for battery health insights: A LIME and SHAP-based study on EIS-derived features",
+    "main_link": "https://journals.pan.pl/Content/135712/PDF/BPASTS_2025_73_5_5177.pdf",
+    "pdf_link": "https://journals.pan.pl/Content/135712/PDF/BPASTS_2025_73_5_5177.pdf",
+    "meta_text": "T Etem - Bulletin of the Polish Academy of Sciences Technical …, 2025 - journals.pan.pl",
+    "snippet": "… study of interpretable machine learning methods for lithium-ion battery state of health (SOH) … \ntransparent, trustworthy SOH estimators into safety-critical battery management systems. …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/47e5be60438e5c76_interpretable_machine_learning_for_battery_health_insights_a_lime_and_sh.pdf",
+    "saved_sha256": "47e5be60438e5c768ee30032b14237dc23518bf2c1cc01c1ea8c6096379eff1d"
+  },
+  {
+    "title": "Estimation of battery life cycle & remaining using machine learning",
+    "main_link": "https://assets-eu.researchsquare.com/files/rs-4595067/v1_covered_a25fadf2-1e2d-4074-acbc-bb1dbfbdde66.pdf",
+    "pdf_link": "https://assets-eu.researchsquare.com/files/rs-4595067/v1_covered_a25fadf2-1e2d-4074-acbc-bb1dbfbdde66.pdf",
+    "meta_text": "A Khurana, OP Singh - 2024 - assets-eu.researchsquare.com",
+    "snippet": "… lithium-ion batteries. This research paper introduces an innovative machine learningbased … \ncapacity for lithium-ion batteries. By leveraging comprehensive datasets from a custom-built …",
+    "save_status": "exception",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  {
+    "title": "Machine Learning and Cloud Technologies for Control and State Estimation in Battery Management Systems within Reconfigurable Batteries",
+    "main_link": "https://www.researchgate.net/profile/Dominic-Karnehm/publication/400250849_Machine_Learning_and_Cloud_Technologies_for_Control_and_State_Estimation_in_Battery_Management_Systems_within_Reconfigurable_Batteries/links/697c997b5d60ab483569936d/Machine-Learning-and-Cloud-Technologies-for-Control-and-State-Estimation-in-Battery-Management-Systems-within-Reconfigurable-Batteries.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Dominic-Karnehm/publication/400250849_Machine_Learning_and_Cloud_Technologies_for_Control_and_State_Estimation_in_Battery_Management_Systems_within_Reconfigurable_Batteries/links/697c997b5d60ab483569936d/Machine-Learning-and-Cloud-Technologies-for-Control-and-State-Estimation-in-Battery-Management-Systems-within-Reconfigurable-Batteries.pdf",
+    "meta_text": "D Karnehm - researchgate.net",
+    "snippet": "… -based BMS and reconfigurable battery control to utilize machine learning, the Internet of \nThings, … RQ 1 What type of machine-learning algorithm can be applied to enable a self-learning …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Machine learning systems applied in satellite lithium-ion battery set impedance estimation",
+    "main_link": "http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/04.27.23.39/doc/publicacao.pdf",
+    "pdf_link": "http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/04.27.23.39/doc/publicacao.pdf",
+    "meta_text": "THR Donato - 2018 - mtc-m21c.sid.inpe.br",
+    "snippet": "… two ensembles of machine learning models (neural network … aim to estimate the Li-ion battery \ninternal impedance which is … two machine learning ensembles of models, the Li-ion battery …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/689523682b32b1ce_machine_learning_systems_applied_in_satellite_lithium_ion_battery_set_im.pdf",
+    "saved_sha256": "689523682b32b1ce2fe922da746e33abde85fad1f81bd924298999c38bc7cb41"
+  },
+  {
+    "title": "Machine learning systems based on xgBoost and MLP neural network applied in satellite lithium-ion battery sets impedance estimation",
+    "main_link": "https://www.academia.edu/download/92070595/5118acii01.pdf",
+    "pdf_link": "https://www.academia.edu/download/92070595/5118acii01.pdf",
+    "meta_text": "THR Donato, MG Quiles - Advanced Computational Intelligence: An …, 2018 - academia.edu",
+    "snippet": "… the battery at time t In this study, the battery impedance is obtained through the machine \nlearning systems (see Section 2.2) which can be applied in the determination of battery state of …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Prediction of Li-ion battery discharge patterns in IoT devices under random use via machine learning algorithms",
+    "main_link": "https://academic.oup.com/comjnl/advance-article-pdf/doi/10.1093/comjnl/bxac089/50643534/bxac089.pdf",
+    "pdf_link": "https://academic.oup.com/comjnl/advance-article-pdf/doi/10.1093/comjnl/bxac089/50643534/bxac089.pdf",
+    "meta_text": "A Gökçen, A Gökçen, S Şahin - The Computer Journal, 2023 - academic.oup.com",
+    "snippet": "… battery were obtained from the input–output dynamics of the random battery use obtained \nfrom the randomized battery … They were investigated by machine learning methods and their …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Application of Deep Reinforcement Learning for Battery Design",
+    "main_link": "https://www.researchgate.net/profile/Dongpeng_Liu3/publication/344437466_APPLICATION_OF_DEEP_REINFORCEMENT_LEARNING_FOR_BATTERY_DESIGN/links/5f756560299bf1b53e035d03/APPLICATION-OF-DEEP-REINFORCEMENT-LEARNING-FOR-BATTERY-DESIGN.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Dongpeng_Liu3/publication/344437466_APPLICATION_OF_DEEP_REINFORCEMENT_LEARNING_FOR_BATTERY_DESIGN/links/5f756560299bf1b53e035d03/APPLICATION-OF-DEEP-REINFORCEMENT-LEARNING-FOR-BATTERY-DESIGN.pdf",
+    "meta_text": "D Liu - Master's Thesis, University of Missouri, USA, 2020 - researchgate.net",
+    "snippet": "… In view of the fact that only a few studies applied machine learning methods on battery \nrecipe data for conductivity, we decided to select and examine models who may suitable for this …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "BATTERY MANAGEMENT IN DATACETNER USING MACHINE LEARNING",
+    "main_link": "https://cs229.stanford.edu/proj2010/Kang-BatteryManagementinDatacenterUsingMachineLearning.pdf",
+    "pdf_link": "https://cs229.stanford.edu/proj2010/Kang-BatteryManagementinDatacenterUsingMachineLearning.pdf",
+    "meta_text": "HG Kang - cs229.stanford.edu",
+    "snippet": "… propose a battery management scheme using machine learning, Machine learning models \nwill find batteries that look bad, and we will replace them to keep our batteries operating. This …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/0cec4fe1a19d2961_battery_management_in_datacetner_using_machine_learning.pdf",
+    "saved_sha256": "0cec4fe1a19d2961a212591ba21801da36dc77e1fb81710f5d0e78be5e019099"
+  },
+  {
+    "title": "SoC estimation of Lithium-ion battery: Simulation and Comparative study of machine learning-based modelling methods",
+    "main_link": "https://sciendo.com/2/v2/download/book/9788367405249.pdf#page=65",
+    "pdf_link": "https://sciendo.com/2/v2/download/book/9788367405249.pdf#page=65",
+    "meta_text": "S El Fallah, J Kharbach, HB Sassi, A Rezzouk… - … on Physical and …, 2023 - sciendo.com",
+    "snippet": "… battery. The Scikitlearn library in Python helped us to develop the different machine learning \n… analyze the feasibility of using different machine learning methods in the estimation of SoC. …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/dda5cc30f0682a7d_soc_estimation_of_lithium_ion_battery_simulation_and_comparative_study_o.pdf",
+    "saved_sha256": "dda5cc30f0682a7dcb19e20a61093f8e9cdcc5e21fba9d61caa689597cb91427"
+  },
+  {
+    "title": "A machine learning approach for evaluation of battery state of health",
+    "main_link": "https://www.imeko.info/publications/tc4-2020/IMEKO-TC4-2020-25.pdf",
+    "pdf_link": "https://www.imeko.info/publications/tc4-2020/IMEKO-TC4-2020-25.pdf",
+    "meta_text": "D Aloisio, G Campobello, SG Leonardi, F Sergi… - 24th IMEKO TC4 …, 2020 - imeko.info",
+    "snippet": "… batteries is a key point for their massive application in the market. In this work, different Machine \nLearning … ) of a cobalt based LiIon battery, cycled under a stationary application profile. …",
+    "save_status": "status_500"
+  },
+  {
+    "title": "An effective approach towards battery using Artificial Intelligence and Machine Learning",
+    "main_link": "https://www.researchgate.net/profile/Sanket-Lodha/publication/382273779_An_effective_approach_towards_battery_using_Artificial_Intelligence_and_Machine_Learning/links/669601c802e9686cd10552e8/An-effective-approach-towards-battery-using-Artificial-Intelligence-and-Machine-Learning.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Sanket-Lodha/publication/382273779_An_effective_approach_towards_battery_using_Artificial_Intelligence_and_Machine_Learning/links/669601c802e9686cd10552e8/An-effective-approach-towards-battery-using-Artificial-Intelligence-and-Machine-Learning.pdf",
+    "meta_text": "A Patil, V Patil, S Lodha, S Chitnis, A Patil - researchgate.net",
+    "snippet": "… of battery materials along with recent advances in the field of machine learning Furthermore, \n… Machine Learning techniques like clustering and regression in the process of determining …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Participation of battery storage systems in the automatic frequency restoration reserve market based on machine learning",
+    "main_link": "https://scholar.archive.org/work/nxgow74wkzhtvl7bzwkij337b4/access/wayback/https://publications.rwth-aachen.de/record/811207/files/811207.pdf",
+    "pdf_link": "https://scholar.archive.org/work/nxgow74wkzhtvl7bzwkij337b4/access/wayback/https://publications.rwth-aachen.de/record/811207/files/811207.pdf",
+    "meta_text": "M Merten - 2020 - scholar.archive.org",
+    "snippet": "… Both statistical and machine learning based models are … strategy for integrating Battery \nEnergy Storage Systems (BESS) … An in-depth cost breakdown and battery-ageing model support …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-06/29e17bc98f37f03d_participation_of_battery_storage_systems_in_the_automatic_frequency_rest.pdf",
+    "saved_sha256": "29e17bc98f37f03ddced16cd51e2d27ec81b855e59a7eb2be3b2f206c61effbc"
+  },
+  {
+    "title": "Deep Learning and EV Charging: Battery Life and Performance",
+    "main_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/389705531_Deep_Learning_and_EV_Charging_Battery_Life_and_Performance/links/67d1cadf7c5b5569dcb9f415/Deep-Learning-and-EV-Charging-Battery-Life-and-Performance.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/389705531_Deep_Learning_and_EV_Charging_Battery_Life_and_Performance/links/67d1cadf7c5b5569dcb9f415/Deep-Learning-and-EV-Charging-Battery-Life-and-Performance.pdf",
+    "meta_text": "HP Bhupathi - ESP International Journal of Advancements in …, 2023 - researchgate.net",
+    "snippet": "… In the current study, focus has been given to the utilization of the method of machine \nlearning in BMS to enhance its predictive analysis regarding current charging and discharging …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Battery Health Monitoring With AI: Creating Predictive Models to Assess Battery Performance and Longevity",
+    "main_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/389279150_Battery_Health_Monitoring_With_AI_Creating_Predictive_Models_to_Assess_Battery_Performance_and_Longevity/links/67cf0c77e62c604a0dd6c64e/Battery-Health-Monitoring-With-AI-Creating-Predictive-Models-to-Assess-Battery-Performance-and-Longevity.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Hari-Prasad-Bhupathi/publication/389279150_Battery_Health_Monitoring_With_AI_Creating_Predictive_Models_to_Assess_Battery_Performance_and_Longevity/links/67cf0c77e62c604a0dd6c64e/Battery-Health-Monitoring-With-AI-Creating-Predictive-Models-to-Assess-Battery-Performance-and-Longevity.pdf",
+    "meta_text": "HP Bhupathi, S Chinta - ESP Journal of Engineering & …, 2024 - researchgate.net",
+    "snippet": "… By employing AI techniques, this work demonstrates how machine learning models can \nbe integrated into battery management systems (BMS) to provide real-time health monitoring …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Cycle aging effect on lithium-ion battery resistance: a machine learning approach",
+    "main_link": "https://ipg.idsia.ch/preprints/cannelli2023b.pdf",
+    "pdf_link": "https://ipg.idsia.ch/preprints/cannelli2023b.pdf",
+    "meta_text": "S Barcellona, L Cannelli, S Colnago… - 2023 IEEE International …, 2023 - ipg.idsia.ch",
+    "snippet": "… One of the key points of the research activity is the estimation of battery degradation and \nend of life. This work proposes a machine learning method applied to LiBs for estimating the …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-08/f693e1809dffe4a5_cycle_aging_effect_on_lithium_ion_battery_resistance_a_machine_learning_.pdf",
+    "saved_sha256": "f693e1809dffe4a510d056047c0d6c83d6a79fa387c2510ffc13329f6d3792c2"
+  }
+]

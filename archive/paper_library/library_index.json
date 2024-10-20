@@ -1,6 +1,6 @@
 {
-  "month_count": 28,
-  "unique_paper_count": 68,
+  "month_count": 29,
+  "unique_paper_count": 70,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -4512,6 +4512,23 @@
       ]
     },
     {
+      "sha256": "bc1ffc90b6419f5ac28477330685286edfc4a66f8a869dc2afe6d1bb07d69796",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-10/bc1ffc90b6419f5a_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-10",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "c1ef5d8f13ff5be3a4d33687f1297f4e8d0429ad678470a187c2edb9cd2e8751",
       "title": "Section 02-Assessing raw materials criticality",
       "library_path": "archive/paper_library/2024-01/c1ef5d8f13ff5be3_section_02_assessing_raw_materials_criticality.pdf",
@@ -4656,6 +4673,23 @@
           "query_slug": "battery_materials_informatics",
           "query": "battery materials informatics",
           "source_name": "Framework for Early Prediction of Lithium-Ion Battery Lifetime_ A Hybrid Quantum-Classical.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "cd5447469e6d2ac21d096ef01f21b7a3b857a213c53307a89e971fcb7130b2df",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-10/cd5447469e6d2ac2_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-10",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-10",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
