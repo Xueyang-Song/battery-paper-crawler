@@ -8,7 +8,7 @@ from urllib.parse import quote_plus
 import requests
 from bs4 import BeautifulSoup
 
-from scholar_helpers import collect_boxes, extract_result, slug_text
+from scholar_helpers import collect_boxes, extract_result, slug_text, write_json
 
 
 headers = {
@@ -67,6 +67,8 @@ else:
         print("scholar did not work")
         sys.exit()
     html = response.text
+    with open(os.path.join(folder, "search_page.html"), "w", encoding="utf-8") as page_out:
+        page_out.write(html)
 
 soup = BeautifulSoup(html, "html.parser")
 boxes = collect_boxes(soup)
@@ -117,3 +119,12 @@ for kind, box in boxes:
         print(e)
 
 print("done got", done, "pdfs")
+run_info = {
+    "query": query,
+    "source_type": source_type,
+    "source_value": source_value,
+    "saved_files": saved_files,
+    "results_seen": records,
+    "run_time": datetime.now().isoformat(),
+}
+write_json(os.path.join(folder, "run_info.json"), run_info)

@@ -94,3 +94,11 @@ def extract_result(kind, box):
         "meta": meta,
         "snippet": snippet,
     }
+
+
+def write_json(path, data):
+    folder = os.path.dirname(path)
+    if folder and not os.path.exists(folder):
+        os.makedirs(folder)
+    with open(path, "w", encoding="utf-8") as handle:
+        json.dump(data, handle, indent=2, ensure_ascii=False)
