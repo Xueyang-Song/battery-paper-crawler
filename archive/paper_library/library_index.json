@@ -1,6 +1,6 @@
 {
-  "month_count": 30,
-  "unique_paper_count": 72,
+  "month_count": 31,
+  "unique_paper_count": 74,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -3724,6 +3724,23 @@
       ]
     },
     {
+      "sha256": "96ce66c3a543be3721cbca6bfe5ae935b8b959fe130fdccaefcedb90451c34a8",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2024-12/96ce66c3a543be37_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2024-12",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2024-12",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
       "sha256": "9c720c44296d1cc3bc6c539e12c3b84f3c70ca3c76cb40df002f2ecd3f36dcee",
       "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
       "library_path": "archive/paper_library/2023-09/9c720c44296d1cc3_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
@@ -3737,6 +3754,23 @@
           "query_slug": "machine_learning_for_batteries",
           "query": "machine learning for batteries",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "a33fe869f92474a453de55bb36aef3260d26f0439db38da6451621fe10282838",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2024-12/a33fe869f92474a4_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2024-12",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2024-12",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
         }
       ]
     },
