@@ -79,3 +79,4 @@ rough notes while messing with scholar
 2024-12 archive - saved 24 papers across 3 query folders and linked them into the paper library
 2024-Q4 report - wrote the quarter summary pdf and kept the latex source with it
 2025-01 - current layout has extra wrapper info and i am just grabbing whatever still looks like scholar
+2025-01 late - still not clean code but at least the output folders make more sense
