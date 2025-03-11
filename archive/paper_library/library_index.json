@@ -1,6 +1,6 @@
 {
-  "month_count": 33,
-  "unique_paper_count": 89,
+  "month_count": 34,
+  "unique_paper_count": 93,
   "papers": [
     {
       "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
@@ -2539,6 +2539,23 @@
       ]
     },
     {
+      "sha256": "43bd7432d9f092469d14cb86a46b3f4fc1cb90cb2bcfea2ccad7cf2fd5b221c1",
+      "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
+      "library_path": "archive/paper_library/2025-03/43bd7432d9f09246_development_of_machine_learning_models_for_estimating_battery_state_of_h.pdf",
+      "first_month": "2025-03",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf",
+      "size_bytes": 4736,
+      "seen_in": [
+        {
+          "month": "2025-03",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf"
+        }
+      ]
+    },
+    {
       "sha256": "46ff234df203bec1ed51297f6a91bfa66a286e37fd5dd308e6745abe386f5278",
       "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
       "library_path": "archive/paper_library/2023-07/46ff234df203bec1_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
@@ -3994,6 +4011,23 @@
       ]
     },
     {
+      "sha256": "932e9aa5b9443ac07e9dd8e4521894197933fcdec7cb7a7b2c3c539cacb46f82",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2025-03/932e9aa5b9443ac0_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2025-03",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2025-03",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "94b960460e8ebf073caa2f15cf4e5f3cdf899bb3882182e0b48baa59cbb06efb",
       "title": "Machine learning for flow batteries: opportunities and challenges",
       "library_path": "archive/paper_library/2023-11/94b960460e8ebf07_machine_learning_for_flow_batteries_opportunities_and_challenges.pdf",
@@ -4635,6 +4669,23 @@
           "query_slug": "zinc_ion_battery_machine_learning",
           "query": "zinc ion battery machine learning",
           "source_name": "Battery detection of XRay images using transfer learning.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "aeee13bd8b6b1cf5a4a249c1b5d956c7691def6505813fb0e6f4dd56bf500c39",
+      "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
+      "library_path": "archive/paper_library/2025-03/aeee13bd8b6b1cf5_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
+      "first_month": "2025-03",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf",
+      "size_bytes": 4593068,
+      "seen_in": [
+        {
+          "month": "2025-03",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf"
         }
       ]
     },
@@ -6321,6 +6372,23 @@
           "month": "2023-05",
           "query_slug": "machine_learning_for_batteries",
           "query": "machine learning for batteries",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "f0fff9b614f935617a07490e858b11a98c61a2047c4bca476988d86903a7a59d",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2025-03/f0fff9b614f93561_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2025-03",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2025-03",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
