@@ -1,0 +1,78 @@
+{
+  "month": "2025-05",
+  "query": "zinc ion battery machine learning",
+  "query_slug": "zinc_ion_battery_machine_learning",
+  "collected_at": "2025-05-15T20:49:00-07:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=zinc+ion+battery+machine+learning+filetype%3Apdf&btnG="
+  },
+  "saved_count": 8,
+  "results_seen_count": 24,
+  "status_breakdown": {
+    "status_403": 16,
+    "saved": 8
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "de69bcdf8d1296ed88c906032334d2dda6f6d7201607e5ba3030fe741cef8276",
+      "library_path": "archive/paper_library/2022-06/de69bcdf8d1296ed_ai_driven_screening_of_electrolyte_additives_for_aqueous_zinc_ion_batter.pdf",
+      "source_name": "AI-Driven Screening of Electrolyte Additives for Aqueous Zinc-Ion Batteries.pdf",
+      "title": "AI-Driven Screening of Electrolyte Additives for Aqueous Zinc-Ion Batteries",
+      "size_bytes": 1846011
+    },
+    {
+      "sha256": "acfc50927719457db8038fa678629bf7326d37feb7710ca5cb7c4eb62e586219",
+      "library_path": "archive/paper_library/2022-06/acfc50927719457d_battery_detection_of_xray_images_using_transfer_learning.pdf",
+      "source_name": "Battery detection of XRay images using transfer learning.pdf",
+      "title": "Battery detection of XRay images using transfer learning",
+      "size_bytes": 2547173
+    },
+    {
+      "sha256": "05313987baeb9a3afc316145c0d31bb98a6a8d8d223593000b9543735d2dd771",
+      "library_path": "archive/paper_library/2022-06/05313987baeb9a3a_deep_learning_of_advanced_metal_ion_batteries.pdf",
+      "source_name": "Deep Learning of Advanced Metal-Ion Batteries.pdf",
+      "title": "Deep Learning of Advanced Metal-Ion Batteries",
+      "size_bytes": 513702
+    },
+    {
+      "sha256": "0efd1fce5d972f504cbbc3a8dfd55ebb0758798026c4fe3a75c6c6cf753a71a5",
+      "library_path": "archive/paper_library/2022-06/0efd1fce5d972f50_electrolytes_for_aqueous_zn_ion_batteries_working_in_harsh_environment_a.pdf",
+      "source_name": "Electrolytes for aqueous Zn-ion batteries working in harsh environment_ applications and p.pdf",
+      "title": "Electrolytes for aqueous Zn-ion batteries working in harsh environment: applications and perspective",
+      "size_bytes": 16019597
+    },
+    {
+      "sha256": "3b77e040e60e79c6e248b90de2e3409f1aaee2690962be54a7de83126920beaa",
+      "library_path": "archive/paper_library/2022-06/3b77e040e60e79c6_machine_learning_exploration_of_the_bonding_in_metal_hydrides.pdf",
+      "source_name": "Machine learning exploration of the bonding in metal hydrides.pdf",
+      "title": "Machine learning exploration of the bonding in metal hydrides",
+      "size_bytes": 13278
+    },
+    {
+      "sha256": "b1dad1a54539f4e666662514cf92ac5ac499bd3ef9de0c52e5c3ca6c8d59adac",
+      "library_path": "archive/paper_library/2022-06/b1dad1a54539f4e6_machine_learning_driven_material_intelligence_research_and_development.pdf",
+      "source_name": "Machine learning-driven material intelligence research and development.pdf",
+      "title": "Machine learning-driven material intelligence research and development",
+      "size_bytes": 13992456
+    },
+    {
+      "sha256": "dcbf7b00f8d824e620e31877cc9db6332a7f4d644d7667ab8d6188d66d8317c0",
+      "library_path": "archive/paper_library/2022-08/dcbf7b00f8d824e6_predictive_design_of_ultrastretchable_electrodes_with_strain_insensitive.pdf",
+      "source_name": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via M.pdf",
+      "title": "Predictive Design of Ultrastretchable Electrodes with Strain-Insensitive Performance via Machine Intelligence",
+      "size_bytes": 32417308
+    },
+    {
+      "sha256": "1bcd4ed9457a5a113fbbd8bcf6de1e221b01bf06fd192186f01a9dda2e86345e",
+      "library_path": "archive/paper_library/2022-06/1bcd4ed9457a5a11_recent_advances_in_mxene_materials_for_zinc_ion_hybrid_capacitors.pdf",
+      "source_name": "Recent advances in MXene materials for zinc-ion hybrid capacitors.pdf",
+      "title": "Recent advances in MXene materials for zinc-ion hybrid capacitors",
+      "size_bytes": 12619748
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
