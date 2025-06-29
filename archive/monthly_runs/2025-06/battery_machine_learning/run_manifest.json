@@ -1,0 +1,80 @@
+{
+  "month": "2025-06",
+  "query": "battery machine learning",
+  "query_slug": "battery_machine_learning",
+  "collected_at": "2025-06-29T00:18:00-07:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=battery+machine+learning+filetype%3Apdf&btnG="
+  },
+  "saved_count": 8,
+  "results_seen_count": 21,
+  "status_breakdown": {
+    "status_403": 11,
+    "saved": 8,
+    "exception": 1,
+    "status_500": 1
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "0cec4fe1a19d2961a212591ba21801da36dc77e1fb81710f5d0e78be5e019099",
+      "library_path": "archive/paper_library/2022-06/0cec4fe1a19d2961_battery_management_in_datacetner_using_machine_learning.pdf",
+      "source_name": "BATTERY MANAGEMENT IN DATACETNER USING MACHINE LEARNING.pdf",
+      "title": "BATTERY MANAGEMENT IN DATACETNER USING MACHINE LEARNING",
+      "size_bytes": 275282
+    },
+    {
+      "sha256": "b7029469cac9cc1b0964c068cad47117691aabc8bc60f7929b8b0c319b3c4fa9",
+      "library_path": "archive/paper_library/2022-06/b7029469cac9cc1b_early_prediction_of_battery_cycle_life_using_machine_learning.pdf",
+      "source_name": "Early Prediction of Battery Cycle Life Using Machine Learning.pdf",
+      "title": "Early Prediction of Battery Cycle Life Using Machine Learning",
+      "size_bytes": 8892604
+    },
+    {
+      "sha256": "1ce48f0956102c3f549c7bc81c7daff79092b0abd6bcab2426be7986cedbb643",
+      "library_path": "archive/paper_library/2022-09/1ce48f0956102c3f_estimation_of_battery_life_cycle_remaining_using_machine_learning.pdf",
+      "source_name": "Estimation of battery life cycle & remaining using machine learning.pdf",
+      "title": "Estimation of battery life cycle & remaining using machine learning",
+      "size_bytes": 984296
+    },
+    {
+      "sha256": "47e5be60438e5c768ee30032b14237dc23518bf2c1cc01c1ea8c6096379eff1d",
+      "library_path": "archive/paper_library/2022-06/47e5be60438e5c76_interpretable_machine_learning_for_battery_health_insights_a_lime_and_sh.pdf",
+      "source_name": "Interpretable machine learning for battery health insights_ A LIME and SHAP-based study on.pdf",
+      "title": "Interpretable machine learning for battery health insights: A LIME and SHAP-based study on EIS-derived features",
+      "size_bytes": 648676
+    },
+    {
+      "sha256": "689523682b32b1ce2fe922da746e33abde85fad1f81bd924298999c38bc7cb41",
+      "library_path": "archive/paper_library/2022-06/689523682b32b1ce_machine_learning_systems_applied_in_satellite_lithium_ion_battery_set_im.pdf",
+      "source_name": "Machine learning systems applied in satellite lithium-ion battery set impedance estimation.pdf",
+      "title": "Machine learning systems applied in satellite lithium-ion battery set impedance estimation",
+      "size_bytes": 1194424
+    },
+    {
+      "sha256": "b07ad5054a584d0beaff47c60854d2db49e235a118d216cb6ace75da269f8ed6",
+      "library_path": "archive/paper_library/2025-06/b07ad5054a584d0b_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "size_bytes": 1601933
+    },
+    {
+      "sha256": "29e17bc98f37f03ddced16cd51e2d27ec81b855e59a7eb2be3b2f206c61effbc",
+      "library_path": "archive/paper_library/2022-06/29e17bc98f37f03d_participation_of_battery_storage_systems_in_the_automatic_frequency_rest.pdf",
+      "source_name": "Participation of battery storage systems in the automatic frequency restoration reserve ma.pdf",
+      "title": "Participation of battery storage systems in the automatic frequency restoration reserve market based on machine learning",
+      "size_bytes": 7753169
+    },
+    {
+      "sha256": "dda5cc30f0682a7dcb19e20a61093f8e9cdcc5e21fba9d61caa689597cb91427",
+      "library_path": "archive/paper_library/2022-06/dda5cc30f0682a7d_soc_estimation_of_lithium_ion_battery_simulation_and_comparative_study_o.pdf",
+      "source_name": "SoC estimation of Lithium-ion battery_ Simulation and Comparative study of machine learnin.pdf",
+      "title": "SoC estimation of Lithium-ion battery: Simulation and Comparative study of machine learning-based modelling methods",
+      "size_bytes": 23336641
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}

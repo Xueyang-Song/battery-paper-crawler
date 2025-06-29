@@ -1,0 +1,24 @@
+[
+  {
+    "kind": "classic",
+    "title": "Battery materials informatics for zinc-ion electrode screening",
+    "main_link": "https://arxiv.org/abs/2402.01234",
+    "pdf_link": "https://arxiv.org/pdf/2402.01234.pdf",
+    "meta": "M Song, J Doe - Journal of battery ml, 2026",
+    "snippet": "Current style sample result with data-rp on the outer card and a side pdf link.",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-06/b237c5ca19b90a99_battery_materials_informatics_for_zinc_ion_electrode_screening.pdf",
+    "saved_sha256": "b237c5ca19b90a99e486fe339ece1f916bc81794e8ff29e40e20bd5d554ae23a"
+  },
+  {
+    "kind": "classic",
+    "title": "Machine learning assisted optimization for battery manufacturing",
+    "main_link": "https://arxiv.org/abs/2205.01621",
+    "pdf_link": "https://arxiv.org/pdf/2205.01621.pdf",
+    "meta": "A Ngandjong, J Lennartz-Sassinek - 2022",
+    "snippet": "Second sample card for current layout fallback testing.",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2022-07/7f22ff4869348dc5_machine_learning_assisted_multi_objective_optimization_of_battery_manufa.pdf",
+    "saved_sha256": "7f22ff4869348dc5880965ce5e824c3d25ac1bd8b3700f029cf893e879fa3b09"
+  }
+]

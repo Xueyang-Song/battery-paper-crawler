@@ -1,0 +1,35 @@
+{
+  "month": "2025-06",
+  "query": "battery materials informatics",
+  "query_slug": "battery_materials_informatics",
+  "collected_at": "2025-06-29T00:18:00-07:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "E:\\git-thing\\crawler_monthly_archive\\monthly_runs\\2025-06\\battery_materials_informatics\\search_page.html"
+  },
+  "saved_count": 2,
+  "results_seen_count": 2,
+  "status_breakdown": {
+    "saved": 2
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "b237c5ca19b90a99e486fe339ece1f916bc81794e8ff29e40e20bd5d554ae23a",
+      "library_path": "archive/paper_library/2025-06/b237c5ca19b90a99_battery_materials_informatics_for_zinc_ion_electrode_screening.pdf",
+      "source_name": "Battery materials informatics for zinc-ion electrode screening.pdf",
+      "title": "Battery materials informatics for zinc-ion electrode screening",
+      "size_bytes": 2188835
+    },
+    {
+      "sha256": "7f22ff4869348dc5880965ce5e824c3d25ac1bd8b3700f029cf893e879fa3b09",
+      "library_path": "archive/paper_library/2022-07/7f22ff4869348dc5_machine_learning_assisted_multi_objective_optimization_of_battery_manufa.pdf",
+      "source_name": "Machine learning assisted optimization for battery manufacturing.pdf",
+      "title": "Machine learning assisted optimization for battery manufacturing",
+      "size_bytes": 9317698
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
