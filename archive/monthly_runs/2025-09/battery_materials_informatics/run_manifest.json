@@ -1,0 +1,80 @@
+{
+  "month": "2025-09",
+  "query": "battery materials informatics",
+  "query_slug": "battery_materials_informatics",
+  "collected_at": "2025-09-08T22:26:00-07:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=battery+materials+informatics+filetype%3Apdf&btnG="
+  },
+  "saved_count": 8,
+  "results_seen_count": 18,
+  "status_breakdown": {
+    "status_503": 1,
+    "saved": 8,
+    "status_403": 8,
+    "exception": 1
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "4bd028130adc52c62864f6dd6023ee8b5a8426b18b860fd6bd858f53ae28515f",
+      "library_path": "archive/paper_library/2024-01/4bd028130adc52c6_accelerating_functional_materials_discovery_insights_from_geological_sci.pdf",
+      "source_name": "Accelerating functional materials discovery Insights from geological sciences, data-driven.pdf",
+      "title": "Accelerating functional materials discovery Insights from geological sciences, data-driven approaches, and computational advances",
+      "size_bytes": 3658187
+    },
+    {
+      "sha256": "e2fb7b8b46c6035bb21ca9beb977444af8f6cfbec181c06a0d8761752ff3c49c",
+      "library_path": "archive/paper_library/2024-02/e2fb7b8b46c6035b_combining_the_power_of_high_throughput_ab_initio_calculations_and_machin.pdf",
+      "source_name": "Combining the Power of High-Throughput Ab Initio Calculations and Machine Learning towards.pdf",
+      "title": "Combining the Power of High-Throughput Ab Initio Calculations and Machine Learning towards Materials Informatics",
+      "size_bytes": 73462
+    },
+    {
+      "sha256": "0674d0f22d73ed5294f2845665321e6f160d23bb74e7ac97a921fe4e9df4fd41",
+      "library_path": "archive/paper_library/2024-01/0674d0f22d73ed52_drug_discovery_approach_to_breakthroughs_in_batteries.pdf",
+      "source_name": "Drug Discovery Approach to Breakthroughs in Batteries.pdf",
+      "title": "Drug Discovery Approach to Breakthroughs in Batteries",
+      "size_bytes": 1476065
+    },
+    {
+      "sha256": "dd5a4c47a09b368b732801a3eea119f078d4fdc37a1d4937e9760f3d3e97cf2f",
+      "library_path": "archive/paper_library/2025-09/dd5a4c47a09b368b_information_science_for_materials_discovery_and_design.pdf",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "title": "Information science for materials discovery and design",
+      "size_bytes": 291266
+    },
+    {
+      "sha256": "08256d1b340187a865caa8c4bc3f041109715d5c63ba77df861d064e24f18e0f",
+      "library_path": "archive/paper_library/2024-01/08256d1b340187a8_leveraging_machine_learning_to_navigate_complex_design_spaces_in_battery.pdf",
+      "source_name": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Developm.pdf",
+      "title": "Leveraging Machine Learning to Navigate Complex Design Spaces in Battery Material Development",
+      "size_bytes": 218409
+    },
+    {
+      "sha256": "838a537c1711f70e211ec3804c6e83b2de33b5745c3419235c5816c72bee857b",
+      "library_path": "archive/paper_library/2025-09/838a537c1711f70e_section_02_assessing_raw_materials_criticality.pdf",
+      "source_name": "Section 02-Assessing raw materials criticality.pdf",
+      "title": "Section 02-Assessing raw materials criticality",
+      "size_bytes": 2784
+    },
+    {
+      "sha256": "8963a18c6c9c8d6427bd340886278d6b640858da5370361b35cbc1923b557290",
+      "library_path": "archive/paper_library/2024-01/8963a18c6c9c8d64_text_mining_for_energy_materials.pdf",
+      "source_name": "Text Mining for Energy Materials.pdf",
+      "title": "Text Mining for Energy Materials",
+      "size_bytes": 557086
+    },
+    {
+      "sha256": "09cb4ba5268939e6264b3c9abd96259a367e17f36e18fe4cd81e344d9aad7bb4",
+      "library_path": "archive/paper_library/2024-01/09cb4ba5268939e6_transformation_of_lithium_battery_material_design_and_optimization_based.pdf",
+      "source_name": "Transformation of lithium battery material design and optimization based on artificial int.pdf",
+      "title": "Transformation of lithium battery material design and optimization based on artificial intelligence",
+      "size_bytes": 192265
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
