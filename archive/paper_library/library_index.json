@@ -1,6 +1,6 @@
 {
-  "month_count": 40,
-  "unique_paper_count": 117,
+  "month_count": 41,
+  "unique_paper_count": 121,
   "papers": [
     {
       "sha256": "0527d7bf8d2a62ab7c46df042724200375ae5e1b9198de1400808dcf185f792b",
@@ -1972,6 +1972,23 @@
       ]
     },
     {
+      "sha256": "20faec42c8b2b8a5f041c5c11d4735c728f21f971b848b0f1cfa1b48ec54f86c",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2025-10/20faec42c8b2b8a5_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2025-10",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2025-10",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "211a5fa820f761287b1cfa30d0c89549223402b6b0a5fb43caf67fb8da414a91",
       "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
       "library_path": "archive/paper_library/2025-01/211a5fa820f76128_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
@@ -3165,6 +3182,23 @@
       ]
     },
     {
+      "sha256": "4e299982c96003c54d1f921b2ab8c3eb6647fc01359f91880b5350e3d871e6e4",
+      "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
+      "library_path": "archive/paper_library/2025-10/4e299982c96003c5_development_of_machine_learning_models_for_estimating_battery_state_of_h.pdf",
+      "first_month": "2025-10",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf",
+      "size_bytes": 4737,
+      "seen_in": [
+        {
+          "month": "2025-10",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf"
+        }
+      ]
+    },
+    {
       "sha256": "4fd2dd141a025815501d73669d4013eb96bd5c41deb19c033d6b32f2b93081f5",
       "title": "Section 02-Assessing raw materials criticality",
       "library_path": "archive/paper_library/2024-09/4fd2dd141a025815_section_02_assessing_raw_materials_criticality.pdf",
@@ -4228,6 +4262,23 @@
           "query_slug": "battery_materials_informatics",
           "query": "battery materials informatics",
           "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "8d846a19f1e0ae9d3a5daa20ede0d4847b0fb0c32aff15e4865a18f67e6bdd13",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2025-10/8d846a19f1e0ae9d_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2025-10",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2025-10",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
         }
       ]
     },
@@ -6719,6 +6770,23 @@
           "query_slug": "battery_machine_learning",
           "query": "battery machine learning",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "ef551290b88b28e049c371ffa0638d3478640e8dda696d6171889f72780722ad",
+      "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
+      "library_path": "archive/paper_library/2025-10/ef551290b88b28e0_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
+      "first_month": "2025-10",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf",
+      "size_bytes": 4593068,
+      "seen_in": [
+        {
+          "month": "2025-10",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf"
         }
       ]
     },

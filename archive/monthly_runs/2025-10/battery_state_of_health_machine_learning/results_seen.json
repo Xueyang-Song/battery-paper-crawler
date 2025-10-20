@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Battery health monitoring using machine learning",
+    "main_link": "https://www.researchgate.net/profile/Shehzar-Sheikh/publication/343084201_Battery_Health_Monitoring_Using_Machine_Learning/links/5f160255299bf1e548c6e8f8/Battery-Health-Monitoring-Using-Machine-Learning.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Shehzar-Sheikh/publication/343084201_Battery_Health_Monitoring_Using_Machine_Learning/links/5f160255299bf1e548c6e8f8/Battery-Health-Monitoring-Using-Machine-Learning.pdf",
+    "meta_text": "SS Sheikh - Doctoral dissertation, 2019 - researchgate.net",
+    "snippet": "… of health (SOH) become highly necessary. In this thesis, a machine learning-based method \n… The estimation of SOH using a simplified machine learning (ML) algorithm that uses feature …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
+    "main_link": "https://vbn.aau.dk/ws/portalfiles/portal/549452424/PHD_XS_E_pdf.pdf",
+    "pdf_link": "https://vbn.aau.dk/ws/portalfiles/portal/549452424/PHD_XS_E_pdf.pdf",
+    "meta_text": "X Sui - Ph. D. dissertation, Dept. Energy, Aalborg University …, 2022 - vbn.aau.dk",
+    "snippet": "… include battery state of health estimation, lifetime extension, and machine learning algorithms. \n… Machine learning (ML) teknologier har i stigende grad vundet opmærksomhed når …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-10/ef551290b88b28e0_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
+    "saved_sha256": "ef551290b88b28e049c371ffa0638d3478640e8dda696d6171889f72780722ad"
+  },
+  {
+    "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
+    "main_link": "https://opus4.kobv.de/opus4-haw/frontdoor/deliver/index/docId/4989/file/I002026235Thesis.pdf",
+    "pdf_link": "https://opus4.kobv.de/opus4-haw/frontdoor/deliver/index/docId/4989/file/I002026235Thesis.pdf",
+    "meta_text": "Y Wang - 2024 - opus4.kobv.de",
+    "snippet": "… intelligence era, we are now able to utilize machine learning methods to predict the State \nof Health (SOH) of lithium-ion batteries. … of the aforementioned machine learning algorithms …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-10/4e299982c96003c5_development_of_machine_learning_models_for_estimating_battery_state_of_h.pdf",
+    "saved_sha256": "4e299982c96003c54d1f921b2ab8c3eb6647fc01359f91880b5350e3d871e6e4"
+  },
+  {
+    "title": "Data-driven approaches to battery health monitoring in electric vehicles using machine learning",
+    "main_link": "https://pdfs.semanticscholar.org/b81d/fbd9aebef3eb62e256edb61e34d3aae61f56.pdf",
+    "pdf_link": "https://pdfs.semanticscholar.org/b81d/fbd9aebef3eb62e256edb61e34d3aae61f56.pdf",
+    "meta_text": "VB Komaragiri - International Journal of Scientific …, 2024 - pdfs.semanticscholar.org",
+    "snippet": "… apply innovative machinelearning techniques to battery health estimation … machine learning \nto battery health monitoring, will guide the vehicle driver to action in ways implicit for battery …",
+    "save_status": "exception",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+  },
+  {
+    "title": "Estimating battery state of health using machine learning",
+    "main_link": "https://web.lums.edu.pk/~eig/pdf/9953596.pdf",
+    "pdf_link": "https://web.lums.edu.pk/~eig/pdf/9953596.pdf",
+    "meta_text": "A Arif, M Hassaan, M Abdullah, A Nadeem… - 2022 10th International …, 2022 - lums.edu.pk",
+    "snippet": "… This study provides a comparison of various machine learning models to predict battery \nSOH using cycle index, temperature, and charge/discharge rate. The data is a collection of …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-01/78192975466bf655_estimating_battery_state_of_health_using_machine_learning.pdf",
+    "saved_sha256": "78192975466bf65551f1b01e67fc2e1941c5435d3eb62b6ba4f0d12a6c75b9de"
+  },
+  {
+    "title": "Estimation of the State of Charge Health of Electric Vehicle Batteries Through Machine Learning Approach",
+    "main_link": "https://www.energy-proceedings.org/wp-content/uploads/icae2023/1705404109.pdf",
+    "pdf_link": "https://www.energy-proceedings.org/wp-content/uploads/icae2023/1705404109.pdf",
+    "meta_text": "C Clemente, C Giovanni, V Ottorino… - Proceedings of the …, 2023 - energy-proceedings.org",
+    "snippet": "… A comparative study of different deep learning algorithms for lithium-ion batteries on state-of-… \nalgorithm for optimizing deep learning parameters for battery state of charge estimation of …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-01/9a78c43666a61f4a_estimation_of_the_state_of_charge_health_of_electric_vehicle_batteries_t.pdf",
+    "saved_sha256": "9a78c43666a61f4a6e2b10084d02074b32446375435eb3627563bf225eb5acb2"
+  },
+  {
+    "title": "Machine Learning-based Online State-of-Health Estimation of Electric Vehicle Batteries",
+    "main_link": "https://vbn.aau.dk/ws/files/414765390/Machine_Learning_based_Online_State_of_Health_Estimation_of_Electric_Vehicle_Batteries.pdf",
+    "pdf_link": "https://vbn.aau.dk/ws/files/414765390/Machine_Learning_based_Online_State_of_Health_Estimation_of_Electric_Vehicle_Batteries.pdf",
+    "meta_text": "AB Moreno - 2021 - vbn.aau.dk",
+    "snippet": "… search is being conducted in Li-ion batteryrelated topics, having state-of-health (SoH) \nestimation a prominent role. In this work, machine-learning techniques are applied to estimate this …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-01/12c246e599e03445_machine_learning_based_online_state_of_health_estimation_of_electric_veh.pdf",
+    "saved_sha256": "12c246e599e03445e5470cbac173c3c3ea09af6eb482fa681c058126e9f343fd"
+  },
+  {
+    "title": "Machine Learning and Cloud Technologies for Control and State Estimation in Battery Management Systems within Reconfigurable Batteries",
+    "main_link": "https://www.researchgate.net/profile/Dominic-Karnehm/publication/400250849_Machine_Learning_and_Cloud_Technologies_for_Control_and_State_Estimation_in_Battery_Management_Systems_within_Reconfigurable_Batteries/links/697c997b5d60ab483569936d/Machine-Learning-and-Cloud-Technologies-for-Control-and-State-Estimation-in-Battery-Management-Systems-within-Reconfigurable-Batteries.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Dominic-Karnehm/publication/400250849_Machine_Learning_and_Cloud_Technologies_for_Control_and_State_Estimation_in_Battery_Management_Systems_within_Reconfigurable_Batteries/links/697c997b5d60ab483569936d/Machine-Learning-and-Cloud-Technologies-for-Control-and-State-Estimation-in-Battery-Management-Systems-within-Reconfigurable-Batteries.pdf",
+    "meta_text": "D Karnehm - researchgate.net",
+    "snippet": "… and a universal data specification for battery storage systems. … This thesis introduces \nreinforcement learningbased control … -second uptime of a battery modular multilevel management (…",
+    "save_status": "status_403"
+  },
+  {
+    "title": "State Estimation of Li-ion Batteries Using Machine Learning Algorithms",
+    "main_link": "https://yorkspace.library.yorku.ca/bitstream/10315/41045/2/Babaeiyazdi_Iman_2023_PhD.pdf",
+    "pdf_link": "https://yorkspace.library.yorku.ca/bitstream/10315/41045/2/Babaeiyazdi_Iman_2023_PhD.pdf",
+    "meta_text": "I Babaeiyazdi - 2023 - yorkspace.library.yorku.ca",
+    "snippet": "… measurements for states estimation of Li-ion batteries using different machine learning (ML) … \nutilized for estimating two of the most important states of Li-ion batteries, ie, SOC and SOH. …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-01/9759260785b9a3b7_state_estimation_of_li_ion_batteries_using_machine_learning_algorithms.pdf",
+    "saved_sha256": "9759260785b9a3b71887fd4c7df2bb4d4ac4100847d94aa52b276d5cc573d172"
+  },
+  {
+    "title": "Reinforcement Learning-Based Health Estimation and Control in Solid-State Battery Systems",
+    "main_link": "https://www.researchgate.net/profile/Peter-Balogun-2/publication/397437049_Reinforcement_Learning-Based_Health_Estimation_and_Control_in_Solid-State_Battery_Systems/links/6910c8fea404d65709a4437b/Reinforcement-Learning-Based-Health-Estimation-and-Control-in-Solid-State-Battery-Systems.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Peter-Balogun-2/publication/397437049_Reinforcement_Learning-Based_Health_Estimation_and_Control_in_Solid-State_Battery_Systems/links/6910c8fea404d65709a4437b/Reinforcement-Learning-Based-Health-Estimation-and-Control-in-Solid-State-Battery-Systems.pdf",
+    "meta_text": "P BALOGUN - 2025 - researchgate.net",
+    "snippet": "… battery performance. This paper explores the application of Reinforcement Learning (RL) as \n… real-time monitoring, predictive control, and maintenance of solid-state battery systems. By …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "A machine learning approach for evaluation of battery state of health",
+    "main_link": "https://www.imeko.info/publications/tc4-2020/IMEKO-TC4-2020-25.pdf",
+    "pdf_link": "https://www.imeko.info/publications/tc4-2020/IMEKO-TC4-2020-25.pdf",
+    "meta_text": "D Aloisio, G Campobello, SG Leonardi, F Sergi… - 24th IMEKO TC4 …, 2020 - imeko.info",
+    "snippet": "… batteries is a key point for their massive application … Machine Learning (ML) techniques \nwere applied and compared to evaluate the State of Health (SoH) of a cobalt based LiIon battery, …",
+    "save_status": "status_500"
+  },
+  {
+    "title": "Advanced State of Health Estimation for Lithium-Ion Batteries Using Deep Learning and Feature Engineering",
+    "main_link": "https://journals.aut.ac.ir/article_5915_ca8a88d6766600fbaddd41bbef9ce48d.pdf",
+    "pdf_link": "https://journals.aut.ac.ir/article_5915_ca8a88d6766600fbaddd41bbef9ce48d.pdf",
+    "meta_text": "N Khalili, S Khankalantary… - AUT Journal of Electrical …, 2026 - journals.aut.ac.ir",
+    "snippet": "… This work successfully developed and validated a deep learning framework for precise SOH \nestimation of lithium-ion batteries, highlighting the critical importance of interaction features. …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-01/fbd32f922bf45ca2_advanced_state_of_health_estimation_for_lithium_ion_batteries_using_deep.pdf",
+    "saved_sha256": "fbd32f922bf45ca2ae2298ad7a0b8170b33c9226528ceeb371eecd79da23b98d"
+  },
+  {
+    "title": "Ensemble Learning-Based Battery Health Estimation: A Comparative Study of RUL, SOC, and SOH Prediction Using Machine Learning Models",
+    "main_link": "https://www.researchgate.net/profile/J-N-Sekhar/publication/400443881_Ensemble_Learning-Based_Battery_Health_Estimation_A_Comparative_Study_of_RUL_SOC_and_SOH_Prediction_Using_Machine_Learning_Models/links/69837d6642f94d1212a6f113/Ensemble-Learning-Based-Battery-Health-Estimation-A-Comparative-Study-of-RUL-SOC-and-SOH-Prediction-Using-Machine-Learning-Models.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/J-N-Sekhar/publication/400443881_Ensemble_Learning-Based_Battery_Health_Estimation_A_Comparative_Study_of_RUL_SOC_and_SOH_Prediction_Using_Machine_Learning_Models/links/69837d6642f94d1212a6f113/Ensemble-Learning-Based-Battery-Health-Estimation-A-Comparative-Study-of-RUL-SOC-and-SOH-Prediction-Using-Machine-Learning-Models.pdf",
+    "meta_text": "CL Sravanthi, JNC Sekhar - researchgate.net",
+    "snippet": "… and prevent premature battery failure in electric vehicle applications. Recent years, \nmachine learning algorithms have been increasingly adopted for battery state estimation. …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Advanced state of health prediction for lithium-ion batteries using capacity estimation and feedforward neural networks: A machine learning approach",
+    "main_link": "https://www.academia.edu/download/119055365/JES_Journal_Advanced_State_of_Health_Prediction.pdf",
+    "pdf_link": "https://www.academia.edu/download/119055365/JES_Journal_Advanced_State_of_Health_Prediction.pdf",
+    "meta_text": "A Cervellieri - JES J. Electr. Syst, 2024 - academia.edu",
+    "snippet": "… of state-of-health of the battery life of the lithium-ion battery. This work aims to evaluate and \noptimize the performance of the Feedforward Neural Network machine learning algorithm …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Predicting battery health capacity through machine learning techniques: SVR, Random Forest and Fully-connected network",
+    "main_link": "https://www.researchgate.net/profile/Andrea-Fiore-7/publication/341553125_Predicting_battery_health_capacity_through_machine_learning_techniques_SVR_Random_Forest_and_Fully-connected_network/links/5ec7f6cda6fdcc90d68f8e4d/Predicting-battery-health-capacity-through-machine-learning-techniques-SVR-Random-Forest-and-Fully-connected-network.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Andrea-Fiore-7/publication/341553125_Predicting_battery_health_capacity_through_machine_learning_techniques_SVR_Random_Forest_and_Fully-connected_network/links/5ec7f6cda6fdcc90d68f8e4d/Predicting-battery-health-capacity-through-machine-learning-techniques-SVR-Random-Forest-and-Fully-connected-network.pdf",
+    "meta_text": "A Russo, A Fiore, M Aprea - 2019 - researchgate.net",
+    "snippet": "… Buckets are useful to achieve our goal: representing the battery state during the entire … \nnovel approach using state of the art machine learning techniques to predict battery health. …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Analysis of Optimal Deep Learning Approach for Battery Health Condition Monitoring inElectric Vehicle",
+    "main_link": "https://www.researchgate.net/profile/Sujidha-Ponnaiah-2/publication/367520897_Analysis_of_Optimal_Deep_Learning_Approach_for_Battery_Health_Condition_Monitoring_inElectric_Vehicle/links/63d6543fc465a873a26a4e6f/Analysis-of-Optimal-Deep-Learning-Approach-for-Battery-Health-Condition-Monitoring-inElectric-Vehicle.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Sujidha-Ponnaiah-2/publication/367520897_Analysis_of_Optimal_Deep_Learning_Approach_for_Battery_Health_Condition_Monitoring_inElectric_Vehicle/links/63d6543fc465a873a26a4e6f/Analysis-of-Optimal-Deep-Learning-Approach-for-Battery-Health-Condition-Monitoring-inElectric-Vehicle.pdf",
+    "meta_text": "SLK Bharathi, P Sujidha, A Manjula, NAH Asif, A Usha - 2023 - researchgate.net",
+    "snippet": "… condition. We maintain the Battery health condition 100 percent of battery, we can \nanalyses the battery health condition, and we maintain the battery parameter aging of cell …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "… of state of charge, state of health, remaining useful life and state of function prediction for lithium ion battery in electrified vehicle using machine learning …",
+    "main_link": "https://www.academia.edu/download/121677625/RP_P9788770228299_ebook.pdf#page=37",
+    "pdf_link": "https://www.academia.edu/download/121677625/RP_P9788770228299_ebook.pdf#page=37",
+    "meta_text": "K Das, R Kumar - … Conference on Intelligent Communication, Control and … - academia.edu",
+    "snippet": "… estimation and remaining useful life prediction for the lithium-ion battery based on a … state \nof charge and state of health estimation for lithium-ions battery using combined deep learning …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Machine learning and deep learning approaches for SOH and RUL prediction in lithium-ion batteries",
+    "main_link": "https://www.academia.edu/download/125278683/MachineLearningandDeepLearningApproachesforSOHandRULPredictioninLithiumIonBatteries.pdf",
+    "pdf_link": "https://www.academia.edu/download/125278683/MachineLearningandDeepLearningApproachesforSOHandRULPredictioninLithiumIonBatteries.pdf",
+    "meta_text": "A Das - academia.edu",
+    "snippet": "… Accurate estimation of the state of health of lithium-ion batteries … learning and deep learning \nmodels for battery state of health … A deep learning model also demonstrated outstanding …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "AI-Driven Intelligent Battery Management System for Electric Vehicles: Joint SOC/SOH Estimation and Proactive Fault Prediction Using Machine Learning",
+    "main_link": "https://www.researchgate.net/profile/Amirisetti-Sidhartha/publication/403832499_AI-Driven_Intelligent_Battery_Management_System_for_Electric_Vehicles_Joint_SOCSOH_Estimation_and_Proactive_Fault_Prediction_Using_Machine_Learning/links/69df7a25d2ec9a706ebfd88f/AI-Driven-Intelligent-Battery-Management-System-for-Electric-Vehicles-Joint-SOC-SOH-Estimation-and-Proactive-Fault-Prediction-Using-Machine-Learning.pdf",
+    "pdf_link": "https://www.researchgate.net/profile/Amirisetti-Sidhartha/publication/403832499_AI-Driven_Intelligent_Battery_Management_System_for_Electric_Vehicles_Joint_SOCSOH_Estimation_and_Proactive_Fault_Prediction_Using_Machine_Learning/links/69df7a25d2ec9a706ebfd88f/AI-Driven-Intelligent-Battery-Management-System-for-Electric-Vehicles-Joint-SOC-SOH-Estimation-and-Proactive-Fault-Prediction-Using-Machine-Learning.pdf",
+    "meta_text": "M Jhawer - researchgate.net",
+    "snippet": "… Conversely, purely data-driven machine learning methods have demonstrated strong \nnonlinear approximation capabilities but often operate as black-box systems lacking physical …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Dimensionality reduced deep learning-based state of health estimation of Lithium-Ion batteries using standard dataset",
+    "main_link": "https://www.academia.edu/download/117268568/60_23066.pdf",
+    "pdf_link": "https://www.academia.edu/download/117268568/60_23066.pdf",
+    "meta_text": "VC Srikantappa, S Devarakonda - International Journal of Power …, 2024 - academia.edu",
+    "snippet": "… paper offers a deep learning-based battery management system (BMS) that estimates battery \nhealth and capacity using multiple channel charging profiles (MCCPs) [13]. Deep domain …",
+    "save_status": "status_403"
+  },
+  {
+    "title": "Online Condition Monitoring and Health Management of Batteries Based on Digital Twin Technologies",
+    "main_link": "https://pure.hud.ac.uk/ws/portalfiles/portal/67222740/FINAL_THESIS_5_.pdf",
+    "pdf_link": "https://pure.hud.ac.uk/ws/portalfiles/portal/67222740/FINAL_THESIS_5_.pdf",
+    "meta_text": "Z Wang - 2022 - pure.hud.ac.uk",
+    "snippet": "… health indicators from CC charging voltages for battery SOH … are highly correlated with the \nbattery SOH. The results reveal … Then two different machine learning models are introduced …",
+    "save_status": "saved",
+    "saved_library_path": "archive/paper_library/2025-02/a142f7eacf8bd94f_online_condition_monitoring_and_health_management_of_batteries_based_on_.pdf",
+    "saved_sha256": "a142f7eacf8bd94f6cd5e24d647dac7582f541057347d21687ca0cc650c8fb6c"
+  }
+]
