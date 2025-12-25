@@ -108,3 +108,4 @@ rough notes while messing with scholar
 2025-11 late - need to keep old saved pages around because live scholar is too annoying to debug on
 2025-11 archive - saved 32 papers across 4 query folders and linked them into the paper library
 2025-12 - archive style pages are not the same as live pages so now there is another branch for that too
+2025-12 archive - saved 31 papers across 4 query folders and linked them into the paper library
