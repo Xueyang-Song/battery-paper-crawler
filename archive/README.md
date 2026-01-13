@@ -8,8 +8,8 @@ What is here:
 
 Range right now:
 - first month: `2022-06`
-- latest month: `2025-12`
-- unique pdf files in library: `129`
+- latest month: `2026-01`
+- unique pdf files in library: `133`
 
 Note:
 - the first few 2022 months were backfilled once the crawler stopped breaking enough to save things
