@@ -43,6 +43,14 @@ def collect_boxes(soup):
             boxes.append(("data_rp", box))
     if boxes:
         return boxes
+    mid = soup.find("div", id="gs_res_ccl_mid")
+    if mid:
+        old_boxes = []
+        for kid in mid.find_all("div", recursive=False):
+            if kid.find("h3"):
+                old_boxes.append(("archive_old", kid))
+        if old_boxes:
+            return old_boxes
     return boxes
 
 

@@ -85,6 +85,8 @@ for kind, box in boxes:
         if not one:
             continue
         print("title", one["title"])
+        if one["kind"] == "archive_old":
+            print("using archive style result")
         use_link = one["pdf_link"] or one["main_link"]
         if use_link == "":
             one["save_status"] = "no_link"
