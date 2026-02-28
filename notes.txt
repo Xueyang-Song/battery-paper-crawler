@@ -113,3 +113,4 @@ rough notes while messing with scholar
 2026-01 - added another fallback for newer cards and i hope this is enough for now
 2026-01 archive - saved 32 papers across 4 query folders and linked them into the paper library
 2026-02 - run output should save what page it came from because i keep forgetting
+2026-02 archive - saved 32 papers across 4 query folders and linked them into the paper library

@@ -1,7 +1,24 @@
 {
-  "month_count": 44,
-  "unique_paper_count": 133,
+  "month_count": 45,
+  "unique_paper_count": 138,
   "papers": [
+    {
+      "sha256": "01bcd39713b1d6d80571ea0a120cd22053f943797c526d1fb41dc11521d2dbb9",
+      "title": "Multidimensional Machine Learning Balancing in Smart Battery Packs.",
+      "library_path": "archive/paper_library/2026-02/01bcd39713b1d6d8_multidimensional_machine_learning_balancing_in_smart_battery_packs.pdf",
+      "first_month": "2026-02",
+      "first_query": "battery_machine_learning",
+      "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf",
+      "size_bytes": 1601933,
+      "seen_in": [
+        {
+          "month": "2026-02",
+          "query_slug": "battery_machine_learning",
+          "query": "battery machine learning",
+          "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
     {
       "sha256": "04c05048b3455ff83feb4cea451b9bd3d91d84bfed39f5a5b441379a9f6631fb",
       "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
@@ -2428,6 +2445,23 @@
       ]
     },
     {
+      "sha256": "378471d3b66e95c5522cd0220fc765e06ccfd8f57c2974b5294e75f3681a63f2",
+      "title": "Information science for materials discovery and design",
+      "library_path": "archive/paper_library/2026-02/378471d3b66e95c5_information_science_for_materials_discovery_and_design.pdf",
+      "first_month": "2026-02",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Information science for materials discovery and design.pdf",
+      "size_bytes": 291266,
+      "seen_in": [
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Information science for materials discovery and design.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "3b77e040e60e79c6e248b90de2e3409f1aaee2690962be54a7de83126920beaa",
       "title": "Machine learning exploration of the bonding in metal hydrides",
       "library_path": "archive/paper_library/2022-06/3b77e040e60e79c6_machine_learning_exploration_of_the_bonding_in_metal_hydrides.pdf",
@@ -3919,6 +3953,23 @@
       ]
     },
     {
+      "sha256": "70fabd8626e5485e7acdd09cb066393ddfad73c7b62b5e38d2b06dbfe896b90a",
+      "title": "Section 02-Assessing raw materials criticality",
+      "library_path": "archive/paper_library/2026-02/70fabd8626e5485e_section_02_assessing_raw_materials_criticality.pdf",
+      "first_month": "2026-02",
+      "first_query": "battery_materials_informatics",
+      "source_name": "Section 02-Assessing raw materials criticality.pdf",
+      "size_bytes": 2760,
+      "seen_in": [
+        {
+          "month": "2026-02",
+          "query_slug": "battery_materials_informatics",
+          "query": "battery materials informatics",
+          "source_name": "Section 02-Assessing raw materials criticality.pdf"
+        }
+      ]
+    },
+    {
       "sha256": "7104373dd416f83086a4ea411478630c316701fae7d925ad391800c4af3643c2",
       "title": "Interpretable learning of voltage for electrode design of multivalent metal-ion batteries",
       "library_path": "archive/paper_library/2022-07/7104373dd416f830_interpretable_learning_of_voltage_for_electrode_design_of_multivalent_me.pdf",
@@ -4736,6 +4787,23 @@
           "query_slug": "machine_learning_for_batteries",
           "query": "machine learning for batteries",
           "source_name": "Multidimensional Machine Learning Balancing in Smart Battery Packs..pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "9d99116dd148ef4ab5c5ecc9eac4b003593750f5b8fa510abf5733de44cd6f09",
+      "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
+      "library_path": "archive/paper_library/2026-02/9d99116dd148ef4a_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
+      "first_month": "2026-02",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf",
+      "size_bytes": 4593068,
+      "seen_in": [
+        {
+          "month": "2026-02",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf"
         }
       ]
     },
@@ -5777,6 +5845,23 @@
           "query_slug": "battery_state_of_health_machine_learning",
           "query": "battery state of health machine learning",
           "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf"
+        }
+      ]
+    },
+    {
+      "sha256": "bb5351fcd3e880c413bd924f11dfaafea7950b3a8961314f33fb86676d1ee72c",
+      "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
+      "library_path": "archive/paper_library/2026-02/bb5351fcd3e880c4_development_of_machine_learning_models_for_estimating_battery_state_of_h.pdf",
+      "first_month": "2026-02",
+      "first_query": "battery_state_of_health_machine_learning",
+      "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf",
+      "size_bytes": 4737,
+      "seen_in": [
+        {
+          "month": "2026-02",
+          "query_slug": "battery_state_of_health_machine_learning",
+          "query": "battery state of health machine learning",
+          "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf"
         }
       ]
     },
