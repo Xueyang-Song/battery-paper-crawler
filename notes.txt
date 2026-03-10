@@ -114,3 +114,4 @@ rough notes while messing with scholar
 2026-01 archive - saved 32 papers across 4 query folders and linked them into the paper library
 2026-02 - run output should save what page it came from because i keep forgetting
 2026-02 archive - saved 32 papers across 4 query folders and linked them into the paper library
+2026-03 - current layout has extra wrapper info and i am just grabbing whatever still looks like scholar
