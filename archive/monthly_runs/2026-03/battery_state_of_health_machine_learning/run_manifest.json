@@ -1,0 +1,79 @@
+{
+  "month": "2026-03",
+  "query": "battery state of health machine learning",
+  "query_slug": "battery_state_of_health_machine_learning",
+  "collected_at": "2026-03-26T21:56:00-07:00",
+  "source": {
+    "type": "google_scholar",
+    "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=battery+state+of+health+machine+learning+filetype%3Apdf&btnG="
+  },
+  "saved_count": 8,
+  "results_seen_count": 12,
+  "status_breakdown": {
+    "status_403": 3,
+    "saved": 8,
+    "status_500": 1
+  },
+  "paper_library_refs": [
+    {
+      "sha256": "fbd32f922bf45ca2ae2298ad7a0b8170b33c9226528ceeb371eecd79da23b98d",
+      "library_path": "archive/paper_library/2025-01/fbd32f922bf45ca2_advanced_state_of_health_estimation_for_lithium_ion_batteries_using_deep.pdf",
+      "source_name": "Advanced State of Health Estimation for Lithium-Ion Batteries Using Deep Learning and Feat.pdf",
+      "title": "Advanced State of Health Estimation for Lithium-Ion Batteries Using Deep Learning and Feature Engineering",
+      "size_bytes": 1269200
+    },
+    {
+      "sha256": "61ad3c2cd421e2eb4317110c11f6600e5bd2c87b3cf8531debd1fd1830e00d04",
+      "library_path": "archive/paper_library/2022-06/61ad3c2cd421e2eb_data_driven_approaches_to_battery_health_monitoring_in_electric_vehicles.pdf",
+      "source_name": "Data-driven approaches to battery health monitoring in electric vehicles using machine lea.pdf",
+      "title": "Data-driven approaches to battery health monitoring in electric vehicles using machine learning",
+      "size_bytes": 530861
+    },
+    {
+      "sha256": "b2d0e71142af99490eff3198c971b90baf8a1a384262e2955d5d4ee5304a9c01",
+      "library_path": "archive/paper_library/2026-03/b2d0e71142af9949_development_of_machine_learning_models_for_estimating_battery_state_of_h.pdf",
+      "source_name": "Development of machine learning models for estimating battery state-of-health (SOH).pdf",
+      "title": "Development of machine learning models for estimating battery state-of-health (SOH)",
+      "size_bytes": 4736
+    },
+    {
+      "sha256": "78192975466bf65551f1b01e67fc2e1941c5435d3eb62b6ba4f0d12a6c75b9de",
+      "library_path": "archive/paper_library/2025-01/78192975466bf655_estimating_battery_state_of_health_using_machine_learning.pdf",
+      "source_name": "Estimating battery state of health using machine learning.pdf",
+      "title": "Estimating battery state of health using machine learning",
+      "size_bytes": 4846156
+    },
+    {
+      "sha256": "9a78c43666a61f4a6e2b10084d02074b32446375435eb3627563bf225eb5acb2",
+      "library_path": "archive/paper_library/2025-01/9a78c43666a61f4a_estimation_of_the_state_of_charge_health_of_electric_vehicle_batteries_t.pdf",
+      "source_name": "Estimation of the State of Charge Health of Electric Vehicle Batteries Through Machine Lea.pdf",
+      "title": "Estimation of the State of Charge Health of Electric Vehicle Batteries Through Machine Learning Approach",
+      "size_bytes": 306300
+    },
+    {
+      "sha256": "12c246e599e03445e5470cbac173c3c3ea09af6eb482fa681c058126e9f343fd",
+      "library_path": "archive/paper_library/2025-01/12c246e599e03445_machine_learning_based_online_state_of_health_estimation_of_electric_veh.pdf",
+      "source_name": "Machine Learning-based Online State-of-Health Estimation of Electric Vehicle Batteries.pdf",
+      "title": "Machine Learning-based Online State-of-Health Estimation of Electric Vehicle Batteries",
+      "size_bytes": 3269562
+    },
+    {
+      "sha256": "545ffbbf30ea5b172f01010c9ac60daa3e7e4ea4a4454f947da5f5559729c969",
+      "library_path": "archive/paper_library/2026-03/545ffbbf30ea5b17_robust_state_of_health_estimation_for_lithium_ion_batteries_using_machin.pdf",
+      "source_name": "Robust state of health estimation for lithium-ion batteries using machine learning.pdf",
+      "title": "Robust state of health estimation for lithium-ion batteries using machine learning",
+      "size_bytes": 4593068
+    },
+    {
+      "sha256": "9759260785b9a3b71887fd4c7df2bb4d4ac4100847d94aa52b276d5cc573d172",
+      "library_path": "archive/paper_library/2025-01/9759260785b9a3b7_state_estimation_of_li_ion_batteries_using_machine_learning_algorithms.pdf",
+      "source_name": "State Estimation of Li-ion Batteries Using Machine Learning Algorithms.pdf",
+      "title": "State Estimation of Li-ion Batteries Using Machine Learning Algorithms",
+      "size_bytes": 4219828
+    }
+  ],
+  "notes": [
+    "normalized from the surviving crawl outputs and kept in the repo history with the month it belongs to",
+    "pdf blobs are stored once in archive/paper_library even when the same paper showed up again in later months"
+  ]
+}
