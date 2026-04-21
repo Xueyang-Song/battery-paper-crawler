@@ -118,3 +118,4 @@ rough notes while messing with scholar
 2026-03 late - still not clean code but at least the output folders make more sense
 2026-03 archive - saved 32 papers across 4 query folders and linked them into the paper library
 2026-Q1 report - wrote the quarter summary pdf and kept the latex source with it
+2026-04 - need to keep old saved pages around because live scholar is too annoying to debug on
