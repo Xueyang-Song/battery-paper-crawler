@@ -122,3 +122,4 @@ rough notes while messing with scholar
 2026-04 late - archive style pages are not the same as live pages so now there is another branch for that too
 2026-04 archive - saved 32 papers across 4 query folders and linked them into the paper library
 2026-Q2 report - wrote the quarter summary pdf and kept the latex source with it
+final review - put the bigger cross-quarter paper in the repo after the monthly archive and quarterly reports were done
